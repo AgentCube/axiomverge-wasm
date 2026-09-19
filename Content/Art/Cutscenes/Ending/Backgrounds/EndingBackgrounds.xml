@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<THBackgroundXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<!-- #################################################################### -->
+	<!-- ShotA - Blackness -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="ShotA">
+		<THBackgroundData>
+			<mTextureName>Art/Backgrounds/Black</mTextureName>
+		</THBackgroundData>
+	</THBackgroundSetData>
+	
+	<!-- #################################################################### -->
+	<!-- Shot0 - Trace in the hospital bed -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot0">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/HospitalBed</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mScreenOffset>
+				<X>0</X>
+				<Y>24</Y>
+			</mScreenOffset>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Backgrounds/Black</mTextureName>
+		</THBackgroundData>
+	</THBackgroundSetData>
+	
+	
+	<!-- #################################################################### -->
+	<!-- Shot1 - The facility -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot1">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<!-- Comm towers / storage tanks -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot1FG0</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>1.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+			<mWrap>true</mWrap>
+		</THBackgroundData>
+
+
+		<!-- Mesa -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot1BG1</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>1.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+
+		<!-- Clouds -->		
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot1BG2</mTextureName>
+			<mVelocity>
+				<X>-0.25</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Mountains -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot1Mountains</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Valley -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot1Mist</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	
+	<!-- #################################################################### -->
+	<!-- Shot2 - Trace packing up-->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot2">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+
+		<!--Trace packing up as ham watches -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot2</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>24</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot3 - Trace looking into sunset -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot3">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<!-- Cliff with Trace looking into sunset -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG1</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>96</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+		<!-- Clouds -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG6</mTextureName>
+			<mVelocity>
+				<X>-1.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG5</mTextureName>
+			<mVelocity>
+				<X>-0.75</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG4</mTextureName>
+			<mVelocity>
+				<X>-0.5</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG3</mTextureName>
+			<mVelocity>
+				<X>-0.375</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot3BG2</mTextureName>
+			<mVelocity>
+				<X>-0.25</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+	<!-- #################################################################### -->
+	<!-- Shot4 - pan down Trace's house-->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot4">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		
+		
+
+
+		<!--Trace's house -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot4</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>24</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot5 - pan down Trace's lab-->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot5">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<!--Trace's lab -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot5</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>24</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot6 - closeup of Trace -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot6">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<!--Trace's face -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Shot6BG1</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>152</X>
+				<Y>24</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Backgrounds/Black</mTextureName>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+
+	<!-- #################################################################### -->
+	<!-- AltShot1 - Trace looking at monitor  -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="AltShot1">
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Trace -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/AltShot1</mTextureName>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>64</Y>
+			</mScreenOffset>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- AltShot2 - Athetos in the doorway -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="AltShot2">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Trace-->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/AltShot2Trace</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>96</X>
+				<Y>64</Y>
+			</mOffset>
+		</THBackgroundData>
+
+		<!-- Athetos standing in doorway-->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/AltShot2Athetos</mTextureName>
+			<mParallax>
+				<X>0.5</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>384</X>
+				<Y>64</Y>
+			</mOffset>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+
+	<!-- #################################################################### -->
+	<!-- AltShot3 - pan down Athetos -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="AltShot3">
+
+		<!-- Matte -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/Matte288x176</mTextureName>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!--
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		-->
+
+		<!--Athetos w/ gun -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Ending/Backgrounds/AltShot3</mTextureName>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mScreenOffset>
+				<X>96</X>
+				<Y>24</Y>
+			</mScreenOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+	</THBackgroundSetData>
+	
+
+</THBackgroundXML>

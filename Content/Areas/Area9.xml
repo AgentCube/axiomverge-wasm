@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<THAreaMapData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mName>Area9</mName>
+  <mMainTileMapName>Area9.tmx</mMainTileMapName>
+	<mSecretWorldTileMapName>Area9Secret.tmx</mSecretWorldTileMapName>
+  <mBackgroundXML>Area9Backgrounds.xml</mBackgroundXML>
+  <mMusicTrack>OuterBeyond9</mMusicTrack>
+
+  <!-- Sprite sheet for animated tiles -->
+  <mSpriteTileSheet>SpriteTiles.xml</mSpriteTileSheet>
+
+  <!-- #################################################################### -->
+  <!-- Animated sprite tiles -->
+  <!-- #################################################################### -->
+
+  <THSpriteTileData mAnimationName="RedGoo01">
+    <mPosition>
+      <X>384</X>
+      <Y>48</Y>
+    </mPosition>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="TestTubes01">
+    <mPosition>
+      <X>336</X>
+      <Y>48</Y>
+    </mPosition>
+		<mTimeStretch>0.5</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="AlphaTiles01">
+    <mPosition>
+      <X>336</X>
+      <Y>112</Y>
+    </mPosition>
+		<mTimeStretch>0.5</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="YellowLava">
+    <mPosition>
+      <X>400</X>
+      <Y>112</Y>
+    </mPosition>
+		<mTimeStretch>0.5</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="BubblingFluid">
+    <mPosition>
+      <X>368</X>
+      <Y>112</Y>
+    </mPosition>
+		<mTimeStretch>0.5</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="Area9Assorted1">
+    <mPosition>
+      <X>80</X>
+      <Y>0</Y>
+    </mPosition>
+    <mTimeStretch>1.00</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="Area9Lights1">
+    <mPosition>
+      <X>144</X>
+      <Y>48</Y>
+    </mPosition>
+    <mTimeStretch>1.0</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="Area9Lights2">
+    <mPosition>
+      <X>400</X>
+      <Y>400</Y>
+    </mPosition>
+    <mTimeStretch>1.0</mTimeStretch>
+  </THSpriteTileData>
+  <THSpriteTileData mAnimationName="Area9Assorted2">
+    <mPosition>
+      <X>336</X>
+      <Y>352</Y>
+    </mPosition>
+    <mTimeStretch>1.00</mTimeStretch>
+  </THSpriteTileData>
+	<THSpriteTileData mAnimationName="Area9Turbine">
+		<mPosition>
+			<X>0</X>
+			<Y>256</Y>
+		</mPosition>
+		<!-- This sprite's current frame is controlled manually. -->
+		<mAutoUpdate>false</mAutoUpdate>
+		<mLockToBeat>false</mLockToBeat>
+	</THSpriteTileData>
+	<THSpriteTileData mAnimationName="Area9Hatch">
+		<mPosition>
+			<X>400</X>
+			<Y>1392</Y>
+		</mPosition>
+		<mAutoUpdate>true</mAutoUpdate>
+		<mLockToBeat>false</mLockToBeat>
+	</THSpriteTileData>
+<!--
+	<THSpriteTileData mAnimationName="AthetosTube">
+		<mPosition>
+			<X>192</X>
+			<Y>1280</Y>
+		</mPosition>
+		<mLockToBeat>false</mLockToBeat>
+	</THSpriteTileData>
+	-->
+  
+
+</THAreaMapData>

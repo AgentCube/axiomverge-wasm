@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<THBackgroundXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- #################################################################### -->
+  <!-- Shot0 - The facility -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot0">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x176</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+
+    <!-- Snow particles -->
+    <THBackgroundData>
+      <mType>PARTICLE</mType>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.75</X>
+        <Y>1.75</Y>
+      </mParallax>
+      <mWrap>true</mWrap>
+      <mParticleData>
+        <mSpawnerName>LightSnow</mSpawnerName>
+      </mParticleData>
+    </THBackgroundData>
+    
+
+
+    <!-- Comm towers / storage tanks -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0FG0</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mWrap>true</mWrap>
+    </THBackgroundData>
+    
+    
+    <!-- Mesa -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG1</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mWrap>false</mWrap>
+    </THBackgroundData>
+    
+    
+    <!-- Clouds -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG6</mTextureName>
+      <mVelocity>
+        <X>-1.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG5</mTextureName>
+      <mVelocity>
+        <X>-0.75</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG4</mTextureName>
+      <mVelocity>
+        <X>-0.5</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG3</mTextureName>
+      <mVelocity>
+        <X>-0.375</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0BG2</mTextureName>
+      <mVelocity>
+        <X>-0.25</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    
+    <!-- Mountains -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0Mountains</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Valley -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot0Mist</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.5</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot1 - the Z machine -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot1">
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x176CRT</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Scanlines -->
+    <!--
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot1Scanlines</mTextureName>
+      <mRenderType>Additive</mRenderType>
+      <mScreenVelocity>
+        <X>0.0</X>
+        <Y>1.0</Y>
+      </mScreenVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>     
+      <mWrap>true</mWrap>
+    </THBackgroundData>-->
+    
+    <!-- The input label-->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Video1</mTextureName>
+      
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <!-- Screen offset is applied after parallax-->
+      <mScreenOffset>
+        <X>112</X>
+        <Y>64</Y>
+      </mScreenOffset>
+      <mWrap>false</mWrap>
+    </THBackgroundData>
+
+    <!--The z machine -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot1ZMachine</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+      <mScreenOffset>
+        <X>96</X>
+        <Y>48</Y>
+      </mScreenOffset>
+      <mWrap>false</mWrap>
+    </THBackgroundData>
+    
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot2 - pan down of the oscillator room-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot2">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x176</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+
+    <!--The oscillator room -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot2OscillatorRoom</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+      <mScreenOffset>
+        <X>96</X>
+        <Y>48</Y>
+      </mScreenOffset>
+      <mWrap>false</mWrap>
+    </THBackgroundData>
+  </THBackgroundSetData>    
+
+  <!-- #################################################################### -->
+  <!-- Shot3 - Ham talking to Trace -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot3">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Oscillator rack -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot3Oscillator</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>96</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <!-- Trace-->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot3Trace</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>96</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <!-- Ham standing in doorway-->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot3Ham</mTextureName>
+      <mParallax>
+        <X>0.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>192</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+    
+    
+
+    
+
+  </THBackgroundSetData>
+  
+  
+
+  <!-- #################################################################### -->
+  <!-- Shot4 - Closeup of Trace -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot4">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot4BG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot5 - Turning on the laser -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot5">
+    <THBackgroundData>
+      <!-- Black background since this shot is all sprites -->
+      <mTextureName>Art/Backgrounds/Black</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+
+  <!-- #################################################################### -->
+  <!-- ShotA - Z Machine firing  -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="ShotA">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x176</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!--The z machine -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/ShotAZMachine</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+      <mScreenOffset>
+        <X>96</X>
+        <Y>48</Y>
+      </mScreenOffset>
+      <mWrap>false</mWrap>
+    </THBackgroundData>
+    
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot8 - Trace and Ham looking at monitor  -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot8">
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Trace and Ham -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot8BG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot9 - Ham points at warning  -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot9">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot9BG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot9B - Trace hears a sound  -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot9B">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot9BBG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot10 - Explosion -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot10">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Exploding wall -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot10BG</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>96</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+    
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot11 - Trace being hit by flying debris -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot11">
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Snow particles -->
+    <THBackgroundData>
+      <mType>PARTICLE</mType>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mWrap>true</mWrap>
+      <mParticleData>
+        <mSpawnerName>LightSnow</mSpawnerName>
+      </mParticleData>
+    </THBackgroundData>
+
+    <!-- Glass -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot11Glass</mTextureName>
+      <mParallax>
+        <X>2.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>48</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <!-- Bricks -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot11Bricks</mTextureName>
+      <mParallax>
+        <X>1.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>64</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <!-- Trace -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot11Trace</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>96</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <!-- Exploding background -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot11BG</mTextureName>
+      <mParallax>
+        <X>0.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>192</X>
+        <Y>64</Y>
+      </mOffset>
+    </THBackgroundData>
+
+  </THBackgroundSetData>
+
+
+  
+  
+  <!-- destroyed facility-->
+  <THBackgroundSetData mName="Shot12">
+
+    <!-- #################################################################### -->
+    <!-- Shot12 - Destroyed facility  -->
+    <!-- #################################################################### -->
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Snow particles -->
+    <THBackgroundData>
+      <mType>PARTICLE</mType>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mWrap>true</mWrap>
+      <mParticleData>
+        <mSpawnerName>MediumSnow</mSpawnerName>
+      </mParticleData>
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot12BG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+
+  <!-- destroyed facility, distance shot-->
+  <THBackgroundSetData mName="Shot13">
+
+    <!-- #################################################################### -->
+    <!-- Shot13 - Destroyed facility, distance shot  -->
+    <!-- #################################################################### -->
+
+    <!-- Matte -->
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Matte288x72</mTextureName>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+
+    <!-- Snow particles -->
+    <THBackgroundData>
+      <mType>PARTICLE</mType>
+      <mVelocity>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mParallax>
+        <X>1.5</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mWrap>true</mWrap>
+      <mParticleData>
+        <mSpawnerName>HeavySnow</mSpawnerName>				
+      </mParticleData>
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/Intro/Backgrounds/Shot13BG</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+</THBackgroundXML>

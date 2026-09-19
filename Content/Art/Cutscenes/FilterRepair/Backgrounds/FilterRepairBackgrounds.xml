@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<THBackgroundXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- #################################################################### -->
+  <!-- Shot1-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot1">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG0</mTextureName>
+      <mParallax>
+        <X>1.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+    </THBackgroundData>
+    
+    
+  </THBackgroundSetData>
+
+
+  <!-- #################################################################### -->
+  <!-- Shot2-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot2">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot2BG0</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>    
+
+  <!-- #################################################################### -->
+  <!-- AthetosPan-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="AthetosPan">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG2</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+      
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.5</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG0</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+    
+  </THBackgroundSetData>
+	
+	
+	<!-- #################################################################### -->
+  <!-- AthetosPanLeotard-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="AthetosPanLeotard">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG2Leotard</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>1.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+      
+    </THBackgroundData>
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.5</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+
+
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG0</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+    
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot4-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot4">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG1</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+    
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot4BG0</mTextureName>
+      <mVelocity>
+        <X>-0.25</X>
+        <Y>0.0</Y>
+      </mVelocity>
+      <mOffset>
+        <X>112</X>
+        <Y>24</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot5-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot5">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot5BG0</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+  <!-- #################################################################### -->
+  <!-- Shot6-->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot6">
+    <THBackgroundData>
+      <mTextureName>Art/Cutscenes/FilterRepair/Backgrounds/Shot6BG0</mTextureName>
+      <mParallax>
+        <X>0.0</X>
+        <Y>0.0</Y>
+      </mParallax>
+      <mOffset>
+        <X>0</X>
+        <Y>0</Y>
+      </mOffset>
+    </THBackgroundData>
+  </THBackgroundSetData>
+
+</THBackgroundXML>

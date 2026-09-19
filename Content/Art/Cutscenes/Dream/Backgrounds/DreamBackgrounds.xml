@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<THBackgroundXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- #################################################################### -->
+  <!-- Shot0 - Waking up -->
+  <!-- #################################################################### -->
+  <THBackgroundSetData mName="Shot0">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+  </THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot1 - Flashback to the explosion -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot1">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Shot1BG</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot2 - Flashback to the collapsed building -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot2">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Shot2BG</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot3 - Flashback to Trace hatching -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot3">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+		
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Egg</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot 3.5 - frozen valves -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot3.5">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Snow particles -->
+		<THBackgroundData>
+			<mType>PARTICLE</mType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mWrap>true</mWrap>
+			<mParticleData>
+				<mSpawnerName>LightSnow</mSpawnerName>
+				<mUseCameraBounds>false</mUseCameraBounds>
+				<mBounds>
+					<X>96</X>
+					<Y>64</Y>
+					<Width>288</Width>
+					<Height>72</Height>
+				</mBounds>
+			</mParticleData>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/FrozenValves</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+	<!-- #################################################################### -->
+	<!-- Shot4 - Trace in the hospital bed -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot4">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/HospitalBed</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot5 - X Rays -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot5">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/XRays</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>1.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot6 - The paper -->
+	<!-- #################################################################### -->
+	<!--
+	<THBackgroundSetData mName="Shot6">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Paper</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>1.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+		</THBackgroundData>
+	</THBackgroundSetData>
+	-->
+	<!-- #################################################################### -->
+	<!-- Shot7 - Diagrams -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot7">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- The paper -
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Paper</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>-0.5</Y>
+			</mVelocity>
+			<mOffset>
+				<X>0</X>
+				<Y>360</Y>
+			</mOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+		-->
+
+		<!-- Layer 1 of diagrams (horizontal) -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Diagrams1</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>-0.5</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mOffset>
+				<X>480</X>
+				<Y>0</Y>
+			</mOffset>
+			<mColorMultiply>
+				<X>0.9</X>
+				<Y>0.9</Y>
+				<Z>0.9</Z>
+				<W>1.0</W>
+			</mColorMultiply>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+		<!-- Layer 4 of diagrams (vertical) -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Diagrams4</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.4</Y>
+			</mVelocity>
+			<mOffset>
+				<X>0</X>
+				<Y>-496</Y>
+			</mOffset>
+			<mColorMultiply>
+				<X>0.8</X>
+				<Y>0.8</Y>
+				<Z>0.8</Z>
+				<W>1.0</W>
+			</mColorMultiply>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+		<!-- Layer 3 of diagrams (horizontal) -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Diagrams3</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.3</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mOffset>
+				<X>-500</X>
+				<Y>0</Y>
+			</mOffset>
+			<mColorMultiply>
+				<X>0.7</X>
+				<Y>0.7</Y>
+				<Z>0.7</Z>
+				<W>1.0</W>
+			</mColorMultiply>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+			
+
+
+		<!-- Layer 2 of diagrams (vertical) -->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Diagrams2</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>-0.25</Y>
+			</mVelocity>
+			<mOffset>
+				<X>0</X>
+				<Y>136</Y>
+			</mOffset>
+			<mColorMultiply>
+				<X>0.6</X>
+				<Y>0.6</Y>
+				<Z>0.6</Z>
+				<W>1.6</W>
+			</mColorMultiply>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+		
+		
+		
+	</THBackgroundSetData>
+
+
+	<!-- #################################################################### -->
+	<!-- Shot8 - Cellular automata -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot8">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<!-- Shaol's shadow-->
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/ShaolShadow</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			<mWrap>false</mWrap>
+		</THBackgroundData>
+
+		<!-- Breach -->
+		<THBackgroundData>
+			<mType>BREACH</mType>
+			<mTextureName>Art/Backgrounds/White</mTextureName>
+			<mTechnique>BreachTechnique</mTechnique>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>1</X>
+				<Y>1</Y>
+			</mParallax>
+			<mOffset>
+				<X>0</X>
+				<Y>0</Y>
+			</mOffset>
+			
+			<mGradientData>
+				<mStartColor>
+					<X>2.0</X>
+					<Y>0.0</Y>
+					<Z>0.0</Z>
+					<W>1</W>
+				</mStartColor>
+				<mEndColor>
+					<X>0.0</X>
+					<Y>0.0</Y>
+					<Z>0.0</Z>
+					<W>1</W>
+				</mEndColor>
+				<mStartY>450</mStartY>
+				<mEndY>720</mEndY>
+			</mGradientData>
+
+			<mBreachData>
+				<mBreachLayer0Amount>1.0</mBreachLayer0Amount>			
+				<mBreachLayer1Amount>1.0</mBreachLayer1Amount>			
+				<mBreachLayer2Amount>1.0</mBreachLayer2Amount>			
+				<mBreachLayer3Amount>1.0</mBreachLayer3Amount>			
+	
+			</mBreachData>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+	<!-- #################################################################### -->
+	<!-- Shot9 - Winning the Nobel prize -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot9">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/NobelPrize</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+	<!-- #################################################################### -->
+	<!-- Shot10 - Newspaper Controversy -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot10">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Newspaper</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+
+
+	<!-- #################################################################### -->
+	<!-- Shot11 - Trace and hammond working on theories -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot11">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/CollaborationFront</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>1</X>
+				<Y>1</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/CollaborationBack</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.5</X>
+				<Y>0.5</Y>
+			</mParallax>
+		</THBackgroundData>
+
+	</THBackgroundSetData>
+
+
+	<!-- #################################################################### -->
+	<!-- Shot12 - Magazine Spread -->
+	<!-- #################################################################### -->
+	<THBackgroundSetData mName="Shot12">
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/TextBackdrop</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+
+		<THBackgroundData>
+			<mTextureName>Art/Cutscenes/Dream/Backgrounds/Magazine</mTextureName>
+			<mRenderType>UIAlpha</mRenderType>
+			<mVelocity>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mVelocity>
+			<mParallax>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</mParallax>
+		</THBackgroundData>
+	</THBackgroundSetData>
+
+</THBackgroundXML>
