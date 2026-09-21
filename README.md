@@ -4,7 +4,7 @@ A web port of [Axiom Verge](https://steampowered.com).
 
 **Play:** https://agentcube.github.io/axiomverge-wasm
 
-(homescreen.png)
+![Axiom Verge WASM gameplay](screenshots/gameplay.png)
 
 ## Controls
 
