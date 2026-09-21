@@ -1,4 +1,6 @@
-# Axiom Verge WASM A web port of [Axiom Verge](https://store.steampowered.com/app/332200/Axiom_Verge/).
+# Axiom Verge
+
+WASM A web port of [Axiom Verge](https://store.steampowered.com/app/332200/Axiom_Verge/).
 
 **Play:** https://agentcube.github.io/axiomverge-wasm
 
