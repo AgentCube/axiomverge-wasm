@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "name": "music",
+  "totalFiles": 19,
+  "totalBytes": 79174566,
+  "files": [
+    {
+      "path": "Audio/Music/OuterBeyond1",
+      "offset": 0,
+      "length": 3721612
+    },
+    {
+      "path": "Audio/Music/OuterBeyond10",
+      "offset": 3721612,
+      "length": 5967717
+    },
+    {
+      "path": "Audio/Music/OuterBeyond11",
+      "offset": 9689329,
+      "length": 4206399
+    },
+    {
+      "path": "Audio/Music/OuterBeyond12",
+      "offset": 13895728,
+      "length": 5581792
+    },
+    {
+      "path": "Audio/Music/OuterBeyond13",
+      "offset": 19477520,
+      "length": 3870963
+    },
+    {
+      "path": "Audio/Music/OuterBeyond13Alt",
+      "offset": 23348483,
+      "length": 3862549
+    },
+    {
+      "path": "Audio/Music/OuterBeyond14",
+      "offset": 27211032,
+      "length": 4091827
+    },
+    {
+      "path": "Audio/Music/OuterBeyond2",
+      "offset": 31302859,
+      "length": 4131623
+    },
+    {
+      "path": "Audio/Music/OuterBeyond2Dream",
+      "offset": 35434482,
+      "length": 3882432
+    },
+    {
+      "path": "Audio/Music/OuterBeyond2IntroCutscene",
+      "offset": 39316914,
+      "length": 1967332
+    },
+    {
+      "path": "Audio/Music/OuterBeyond4",
+      "offset": 41284246,
+      "length": 4945854
+    },
+    {
+      "path": "Audio/Music/OuterBeyond4Ambient",
+      "offset": 46230100,
+      "length": 2979167
+    },
+    {
+      "path": "Audio/Music/OuterBeyond4Ending",
+      "offset": 49209267,
+      "length": 4823421
+    },
+    {
+      "path": "Audio/Music/OuterBeyond5",
+      "offset": 54032688,
+      "length": 5924005
+    },
+    {
+      "path": "Audio/Music/OuterBeyond6Base",
+      "offset": 59956693,
+      "length": 3869709
+    },
+    {
+      "path": "Audio/Music/OuterBeyond7",
+      "offset": 63826402,
+      "length": 4270850
+    },
+    {
+      "path": "Audio/Music/OuterBeyond8",
+      "offset": 68097252,
+      "length": 3950901
+    },
+    {
+      "path": "Audio/Music/OuterBeyond9",
+      "offset": 72048153,
+      "length": 5208856
+    },
+    {
+      "path": "Audio/Music/OuterBeyondBossGrowl1",
+      "offset": 77257009,
+      "length": 1917557
+    }
+  ]
+}

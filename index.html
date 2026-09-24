@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Axiom Verge — WebAssembly</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+
+  <!-- Cross-Origin Isolation (enables high-precision timers / WASM optimizations) -->
+  <script src="coi-serviceworker.min.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      background: #000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Courier New', Courier, monospace;
+      color: #ccc;
+      overflow: hidden;
+    }
+
+    #canvas-wrapper {
+      position: relative;
+      width: min(100vw, calc(100vh * 480 / 270));
+      aspect-ratio: 480 / 270;
+    }
+
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: none;
+      background: #000;
+    }
+
+    #loading-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(5, 5, 10, 0.92);
+      z-index: 10;
+      transition: opacity 0.5s ease-out;
+    }
+
+    #loading-overlay.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    #loading-box {
+      text-align: center;
+      padding: 2rem;
+      max-width: 480px;
+    }
+
+    #loading-box h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.8rem;
+      letter-spacing: 0.2em;
+      color: #ff3344;
+      text-shadow: 0 0 16px rgba(255, 51, 68, 0.6);
+      font-weight: 900;
+    }
+
+    #loading-progress {
+      font-size: 0.9rem;
+      color: #88a;
+      min-height: 1.4em;
+    }
+
+    .spinner {
+      width: 3rem;
+      height: 3rem;
+      border: 3px solid #222233;
+      border-top-color: #ff3344;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 1.2rem auto;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    #fps-counter {
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      background: rgba(0, 0, 0, 0.75);
+      color: #4ade80;
+      font-family: monospace;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 4px;
+      border: 1px solid rgba(74, 222, 128, 0.35);
+      pointer-events: none;
+      z-index: 5;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="canvas-wrapper">
+    <!-- Game viewport: Axiom Verge native 480x270 pixel buffer -->
+    <canvas id="canvas" width="480" height="270" tabindex="-1" oncontextmenu="return false;"></canvas>
+
+    <div id="fps-counter">-- FPS</div>
+
+    <div id="loading-overlay">
+      <div id="loading-box">
+        <h1>AXIOM VERGE</h1>
+        <div class="spinner"></div>
+        <p id="loading-progress">Initialising .NET WebAssembly...</p>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="main.js"></script>
+
+  <script>
+    const overlay = document.getElementById("loading-overlay");
+
+    // Poll for game startup to smoothly fade out overlay
+    let _hideTimer = setInterval(() => {
+      if (window._gameReady) {
+        clearInterval(_hideTimer);
+        overlay.classList.add("hidden");
+      }
+    }, 100);
+
+    // Fallback: hide overlay after 60s max
+    setTimeout(() => {
+      if (overlay && !overlay.classList.contains("hidden")) {
+        console.warn("[AxiomVerge] Fallback overlay hide timer triggered.");
+        overlay.classList.add("hidden");
+      }
+    }, 60000);
+  </script>
+
+</body>
+</html>

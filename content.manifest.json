@@ -1,0 +1,4728 @@
+{
+  "version": 1,
+  "name": "content",
+  "totalFiles": 944,
+  "totalBytes": 37316221,
+  "files": [
+    {
+      "path": "Areas/Area9.xml",
+      "offset": 0,
+      "length": 2984
+    },
+    {
+      "path": "Art/Backgrounds/Area1BossSkullGrey.xnb",
+      "offset": 2984,
+      "length": 3388
+    },
+    {
+      "path": "Art/Backgrounds/Area1BossSkullRed.xnb",
+      "offset": 6372,
+      "length": 3388
+    },
+    {
+      "path": "Art/Backgrounds/Area1CorrugatedRockBlue.xnb",
+      "offset": 9760,
+      "length": 1368
+    },
+    {
+      "path": "Art/Backgrounds/Area1CorrugatedRockGrey.xnb",
+      "offset": 11128,
+      "length": 1366
+    },
+    {
+      "path": "Art/Backgrounds/Area1CorrugatedRockRed.xnb",
+      "offset": 12494,
+      "length": 1392
+    },
+    {
+      "path": "Art/Backgrounds/Area1CorrugatedRockRedGrey.xnb",
+      "offset": 13886,
+      "length": 1364
+    },
+    {
+      "path": "Art/Backgrounds/Area1CorrugatedRockViolet.xnb",
+      "offset": 15250,
+      "length": 1370
+    },
+    {
+      "path": "Art/Backgrounds/Area1CrissCrossBlue.xnb",
+      "offset": 16620,
+      "length": 13520
+    },
+    {
+      "path": "Art/Backgrounds/Area1MonolithsClose_H.xnb",
+      "offset": 30140,
+      "length": 5200
+    },
+    {
+      "path": "Art/Backgrounds/Area1MonolithsFar_H.xnb",
+      "offset": 35340,
+      "length": 618
+    },
+    {
+      "path": "Art/Backgrounds/Area1MonolithsMid_H.xnb",
+      "offset": 35958,
+      "length": 1938
+    },
+    {
+      "path": "Art/Backgrounds/Area1RockShelfClose_H.xnb",
+      "offset": 37896,
+      "length": 1018
+    },
+    {
+      "path": "Art/Backgrounds/Area1RockShelfMid_H.xnb",
+      "offset": 38914,
+      "length": 510
+    },
+    {
+      "path": "Art/Backgrounds/Area1RuinsRed.xnb",
+      "offset": 39424,
+      "length": 7650
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt0.xnb",
+      "offset": 47074,
+      "length": 546
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt0_V.xnb",
+      "offset": 47620,
+      "length": 708
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt1.xnb",
+      "offset": 48328,
+      "length": 482
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt1_V.xnb",
+      "offset": 48810,
+      "length": 698
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt2.xnb",
+      "offset": 49508,
+      "length": 890
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt2_V.xnb",
+      "offset": 50398,
+      "length": 1280
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt3.xnb",
+      "offset": 51678,
+      "length": 3558
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt3RedGrey.xnb",
+      "offset": 55236,
+      "length": 3542
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt3RedGrey_V.xnb",
+      "offset": 58778,
+      "length": 5034
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt3_V.xnb",
+      "offset": 63812,
+      "length": 5038
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt4.xnb",
+      "offset": 68850,
+      "length": 546
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt4_V.xnb",
+      "offset": 69396,
+      "length": 696
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt5.xnb",
+      "offset": 70092,
+      "length": 4704
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt5RedGrey.xnb",
+      "offset": 74796,
+      "length": 4704
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt5RedGrey_V.xnb",
+      "offset": 79500,
+      "length": 6764
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt5_V.xnb",
+      "offset": 86264,
+      "length": 6766
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt6.xnb",
+      "offset": 93030,
+      "length": 666
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt6_V.xnb",
+      "offset": 93696,
+      "length": 1138
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt7.xnb",
+      "offset": 94834,
+      "length": 792
+    },
+    {
+      "path": "Art/Backgrounds/Area1SaveRoomAlt7_V.xnb",
+      "offset": 95626,
+      "length": 1164
+    },
+    {
+      "path": "Art/Backgrounds/Area1StalagmitesGrey.xnb",
+      "offset": 96790,
+      "length": 1984
+    },
+    {
+      "path": "Art/Backgrounds/Area1StalagmitesRed.xnb",
+      "offset": 98774,
+      "length": 2620
+    },
+    {
+      "path": "Art/Backgrounds/Area1StalagmitesViolet.xnb",
+      "offset": 101394,
+      "length": 4726
+    },
+    {
+      "path": "Art/Backgrounds/Area2BossSkullViolet.xnb",
+      "offset": 106120,
+      "length": 4224
+    },
+    {
+      "path": "Art/Backgrounds/Area2Chasms.xnb",
+      "offset": 110344,
+      "length": 18950
+    },
+    {
+      "path": "Art/Backgrounds/Area2ChasmsFar.xnb",
+      "offset": 129294,
+      "length": 10408
+    },
+    {
+      "path": "Art/Backgrounds/Area2ChasmsFurthest.xnb",
+      "offset": 139702,
+      "length": 6468
+    },
+    {
+      "path": "Art/Backgrounds/Area2Prison.xnb",
+      "offset": 146170,
+      "length": 14598
+    },
+    {
+      "path": "Art/Backgrounds/Area2PurpleVolcanicRock.xnb",
+      "offset": 160768,
+      "length": 27074
+    },
+    {
+      "path": "Art/Backgrounds/Area2RuinsViolet.xnb",
+      "offset": 187842,
+      "length": 7594
+    },
+    {
+      "path": "Art/Backgrounds/Area2VioletVolcanicRock.xnb",
+      "offset": 195436,
+      "length": 27076
+    },
+    {
+      "path": "Art/Backgrounds/Area3BlueRuins1.xnb",
+      "offset": 222512,
+      "length": 23340
+    },
+    {
+      "path": "Art/Backgrounds/Area3BlueRuins1Windowed.xnb",
+      "offset": 245852,
+      "length": 23488
+    },
+    {
+      "path": "Art/Backgrounds/Area3BlueRuins2.xnb",
+      "offset": 269340,
+      "length": 22696
+    },
+    {
+      "path": "Art/Backgrounds/Area3BlueTowers1.xnb",
+      "offset": 292036,
+      "length": 13862
+    },
+    {
+      "path": "Art/Backgrounds/Area3BlueWebbing.xnb",
+      "offset": 305898,
+      "length": 2310
+    },
+    {
+      "path": "Art/Backgrounds/Area3GreenFissure.xnb",
+      "offset": 308208,
+      "length": 1228
+    },
+    {
+      "path": "Art/Backgrounds/Area3GreyTubing1.xnb",
+      "offset": 309436,
+      "length": 31276
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesLayer1.xnb",
+      "offset": 340712,
+      "length": 14608
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesLayer2.xnb",
+      "offset": 355320,
+      "length": 4034
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesLayer3.xnb",
+      "offset": 359354,
+      "length": 3956
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesLayer4.xnb",
+      "offset": 363310,
+      "length": 9002
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesVioletLayer1.xnb",
+      "offset": 372312,
+      "length": 14612
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesVioletLayer2.xnb",
+      "offset": 386924,
+      "length": 4034
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesVioletLayer3.xnb",
+      "offset": 390958,
+      "length": 3956
+    },
+    {
+      "path": "Art/Backgrounds/Area3HeartVinesVioletLayer4.xnb",
+      "offset": 394914,
+      "length": 8996
+    },
+    {
+      "path": "Art/Backgrounds/Area3PurpleRuins1.xnb",
+      "offset": 403910,
+      "length": 30008
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules1.xnb",
+      "offset": 433918,
+      "length": 10662
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules2.xnb",
+      "offset": 444580,
+      "length": 10608
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules3.xnb",
+      "offset": 455188,
+      "length": 7102
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules4.xnb",
+      "offset": 462290,
+      "length": 8682
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules5.xnb",
+      "offset": 470972,
+      "length": 9448
+    },
+    {
+      "path": "Art/Backgrounds/Area4Capsules6.xnb",
+      "offset": 480420,
+      "length": 7306
+    },
+    {
+      "path": "Art/Backgrounds/Area4CapsulesBackground.xnb",
+      "offset": 487726,
+      "length": 9850
+    },
+    {
+      "path": "Art/Backgrounds/Area4Clouds1.xnb",
+      "offset": 497576,
+      "length": 3446
+    },
+    {
+      "path": "Art/Backgrounds/Area4Clouds2.xnb",
+      "offset": 501022,
+      "length": 2642
+    },
+    {
+      "path": "Art/Backgrounds/Area4Clouds3.xnb",
+      "offset": 503664,
+      "length": 2432
+    },
+    {
+      "path": "Art/Backgrounds/Area4Desert1.xnb",
+      "offset": 506096,
+      "length": 1682
+    },
+    {
+      "path": "Art/Backgrounds/Area4FootHills1.xnb",
+      "offset": 507778,
+      "length": 1154
+    },
+    {
+      "path": "Art/Backgrounds/Area4Moons1.xnb",
+      "offset": 508932,
+      "length": 68920
+    },
+    {
+      "path": "Art/Backgrounds/Area4MountainBase1.xnb",
+      "offset": 577852,
+      "length": 536
+    },
+    {
+      "path": "Art/Backgrounds/Area4Mountains1.xnb",
+      "offset": 578388,
+      "length": 3582
+    },
+    {
+      "path": "Art/Backgrounds/Area4OrangeBushColumn.xnb",
+      "offset": 581970,
+      "length": 28164
+    },
+    {
+      "path": "Art/Backgrounds/Area4PurpleBushColumn.xnb",
+      "offset": 610134,
+      "length": 28170
+    },
+    {
+      "path": "Art/Backgrounds/Area4RuinsBrown.xnb",
+      "offset": 638304,
+      "length": 14842
+    },
+    {
+      "path": "Art/Backgrounds/Area4StrawBushColumn.xnb",
+      "offset": 653146,
+      "length": 28170
+    },
+    {
+      "path": "Art/Backgrounds/Area5PinkBubbles.xnb",
+      "offset": 681316,
+      "length": 5456
+    },
+    {
+      "path": "Art/Backgrounds/Area5RibbedTissue.xnb",
+      "offset": 686772,
+      "length": 52576
+    },
+    {
+      "path": "Art/Backgrounds/Area6BossSkull.xnb",
+      "offset": 739348,
+      "length": 3908
+    },
+    {
+      "path": "Art/Backgrounds/Area6BottlecapShaft.xnb",
+      "offset": 743256,
+      "length": 12366
+    },
+    {
+      "path": "Art/Backgrounds/Area6Bottlecaps.xnb",
+      "offset": 755622,
+      "length": 8648
+    },
+    {
+      "path": "Art/Backgrounds/Area6CavernsBlue.xnb",
+      "offset": 764270,
+      "length": 20184
+    },
+    {
+      "path": "Art/Backgrounds/Area6CavernsGreen.xnb",
+      "offset": 784454,
+      "length": 20186
+    },
+    {
+      "path": "Art/Backgrounds/Area6Lake.xnb",
+      "offset": 804640,
+      "length": 7750
+    },
+    {
+      "path": "Art/Backgrounds/Area6NightSky.xnb",
+      "offset": 812390,
+      "length": 25504
+    },
+    {
+      "path": "Art/Backgrounds/Area6TechnoColumn.xnb",
+      "offset": 837894,
+      "length": 6148
+    },
+    {
+      "path": "Art/Backgrounds/Area6WaterfallsBlue.xnb",
+      "offset": 844042,
+      "length": 18984
+    },
+    {
+      "path": "Art/Backgrounds/Area6WaterfallsGreen.xnb",
+      "offset": 863026,
+      "length": 18984
+    },
+    {
+      "path": "Art/Backgrounds/Area7BossSkullBlue.xnb",
+      "offset": 882010,
+      "length": 4382
+    },
+    {
+      "path": "Art/Backgrounds/Area7BossSkullGreen.xnb",
+      "offset": 886392,
+      "length": 5102
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernCorridor1.xnb",
+      "offset": 891494,
+      "length": 3446
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernCorridor2.xnb",
+      "offset": 894940,
+      "length": 2698
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernCorridor3.xnb",
+      "offset": 897638,
+      "length": 2910
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernCorridor4.xnb",
+      "offset": 900548,
+      "length": 1548
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernCorridor5.xnb",
+      "offset": 902096,
+      "length": 2392
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernShaft1.xnb",
+      "offset": 904488,
+      "length": 11630
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernShaft2.xnb",
+      "offset": 916118,
+      "length": 9114
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernShaft3.xnb",
+      "offset": 925232,
+      "length": 5376
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernShaft4.xnb",
+      "offset": 930608,
+      "length": 3498
+    },
+    {
+      "path": "Art/Backgrounds/Area7CavernShaft5.xnb",
+      "offset": 934106,
+      "length": 5994
+    },
+    {
+      "path": "Art/Backgrounds/Area7CorrugatedRockBlue.xnb",
+      "offset": 940100,
+      "length": 1370
+    },
+    {
+      "path": "Art/Backgrounds/Area7Fields1.xnb",
+      "offset": 941470,
+      "length": 2274
+    },
+    {
+      "path": "Art/Backgrounds/Area7Fields2.xnb",
+      "offset": 943744,
+      "length": 1404
+    },
+    {
+      "path": "Art/Backgrounds/Area7Fields3.xnb",
+      "offset": 945148,
+      "length": 986
+    },
+    {
+      "path": "Art/Backgrounds/Area7Fields4.xnb",
+      "offset": 946134,
+      "length": 630
+    },
+    {
+      "path": "Art/Backgrounds/Area7FieldsRuins.xnb",
+      "offset": 946764,
+      "length": 7658
+    },
+    {
+      "path": "Art/Backgrounds/Area7Hangar.xnb",
+      "offset": 954422,
+      "length": 54062
+    },
+    {
+      "path": "Art/Backgrounds/Area7HangarSansElsenova.xnb",
+      "offset": 1008484,
+      "length": 36452
+    },
+    {
+      "path": "Art/Backgrounds/Area7Moons1.xnb",
+      "offset": 1044936,
+      "length": 68068
+    },
+    {
+      "path": "Art/Backgrounds/Area7Mountains.xnb",
+      "offset": 1113004,
+      "length": 3068
+    },
+    {
+      "path": "Art/Backgrounds/Area7NightSky.xnb",
+      "offset": 1116072,
+      "length": 25086
+    },
+    {
+      "path": "Art/Backgrounds/Area7Roots.xnb",
+      "offset": 1141158,
+      "length": 27224
+    },
+    {
+      "path": "Art/Backgrounds/Area7RuinsBlue.xnb",
+      "offset": 1168382,
+      "length": 23824
+    },
+    {
+      "path": "Art/Backgrounds/Area7RuinsGreen.xnb",
+      "offset": 1192206,
+      "length": 23620
+    },
+    {
+      "path": "Art/Backgrounds/Area8ArchesRed.xnb",
+      "offset": 1215826,
+      "length": 7748
+    },
+    {
+      "path": "Art/Backgrounds/Area8CubesGreen.xnb",
+      "offset": 1223574,
+      "length": 21128
+    },
+    {
+      "path": "Art/Backgrounds/Area8CubesRed.xnb",
+      "offset": 1244702,
+      "length": 21130
+    },
+    {
+      "path": "Art/Backgrounds/Area8MossGreen.xnb",
+      "offset": 1265832,
+      "length": 30390
+    },
+    {
+      "path": "Art/Backgrounds/Area8PaddingRed.xnb",
+      "offset": 1296222,
+      "length": 4328
+    },
+    {
+      "path": "Art/Backgrounds/Area9BlueShaft.xnb",
+      "offset": 1300550,
+      "length": 1646
+    },
+    {
+      "path": "Art/Backgrounds/Area9Circles.xnb",
+      "offset": 1302196,
+      "length": 19852
+    },
+    {
+      "path": "Art/Backgrounds/Area9ElevatorFG.xnb",
+      "offset": 1322048,
+      "length": 9428
+    },
+    {
+      "path": "Art/Backgrounds/Area9ElevatorTracks.xnb",
+      "offset": 1331476,
+      "length": 56882
+    },
+    {
+      "path": "Art/Backgrounds/Area9ValvesBlue.xnb",
+      "offset": 1388358,
+      "length": 32706
+    },
+    {
+      "path": "Art/Backgrounds/Area9ValvesRed.xnb",
+      "offset": 1421064,
+      "length": 32716
+    },
+    {
+      "path": "Art/Backgrounds/Black.xnb",
+      "offset": 1453780,
+      "length": 218
+    },
+    {
+      "path": "Art/Backgrounds/ElsenovaBackground.xnb",
+      "offset": 1453998,
+      "length": 12554
+    },
+    {
+      "path": "Art/Backgrounds/InputBackground.xnb",
+      "offset": 1466552,
+      "length": 10062
+    },
+    {
+      "path": "Art/Backgrounds/TitleScreen1.xnb",
+      "offset": 1476614,
+      "length": 66188
+    },
+    {
+      "path": "Art/Backgrounds/TitleScreen2.xnb",
+      "offset": 1542802,
+      "length": 31064
+    },
+    {
+      "path": "Art/Backgrounds/Transparent.xnb",
+      "offset": 1573866,
+      "length": 216
+    },
+    {
+      "path": "Art/Backgrounds/White.xnb",
+      "offset": 1574082,
+      "length": 216
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/CollaborationBack.xnb",
+      "offset": 1574298,
+      "length": 4804
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/CollaborationFront.xnb",
+      "offset": 1579102,
+      "length": 4552
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Diagrams1.xnb",
+      "offset": 1583654,
+      "length": 6770
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Diagrams2.xnb",
+      "offset": 1590424,
+      "length": 8518
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Diagrams3.xnb",
+      "offset": 1598942,
+      "length": 3654
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Diagrams4.xnb",
+      "offset": 1602596,
+      "length": 4092
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/DreamBackgrounds.xml",
+      "offset": 1606688,
+      "length": 14401
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Egg.xnb",
+      "offset": 1621089,
+      "length": 1730
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/FrozenValves.xnb",
+      "offset": 1622819,
+      "length": 3262
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/HospitalBed.xnb",
+      "offset": 1626081,
+      "length": 13958
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Magazine.xnb",
+      "offset": 1640039,
+      "length": 11442
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Newspaper.xnb",
+      "offset": 1651481,
+      "length": 5526
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/NobelPrize.xnb",
+      "offset": 1657007,
+      "length": 6532
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Paper.xnb",
+      "offset": 1663539,
+      "length": 8778
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/ShaolShadow.xnb",
+      "offset": 1672317,
+      "length": 5798
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Shot1BG.xnb",
+      "offset": 1678115,
+      "length": 4760
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Shot2BG.xnb",
+      "offset": 1682875,
+      "length": 6118
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/Shot3BG.xnb",
+      "offset": 1688993,
+      "length": 4100
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/TextBackdrop.xnb",
+      "offset": 1693093,
+      "length": 1018
+    },
+    {
+      "path": "Art/Cutscenes/Dream/Backgrounds/XRays.xnb",
+      "offset": 1694111,
+      "length": 11626
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/AltShot1.xnb",
+      "offset": 1705737,
+      "length": 3596
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/AltShot2Athetos.xnb",
+      "offset": 1709333,
+      "length": 2942
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/AltShot2Trace.xnb",
+      "offset": 1712275,
+      "length": 2200
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/AltShot3.xnb",
+      "offset": 1714475,
+      "length": 9236
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/EndingBackgrounds.xml",
+      "offset": 1723711,
+      "length": 13953
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/HospitalBed.xnb",
+      "offset": 1737664,
+      "length": 13266
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Matte288x176.xnb",
+      "offset": 1750930,
+      "length": 1128
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot1BG1.xnb",
+      "offset": 1752058,
+      "length": 4010
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot1BG2.xnb",
+      "offset": 1756068,
+      "length": 672
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot1FG0.xnb",
+      "offset": 1756740,
+      "length": 5916
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot1Mist.xnb",
+      "offset": 1762656,
+      "length": 3030
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot1Mountains.xnb",
+      "offset": 1765686,
+      "length": 1704
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot2.xnb",
+      "offset": 1767390,
+      "length": 7488
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG1.xnb",
+      "offset": 1774878,
+      "length": 3662
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG2.xnb",
+      "offset": 1778540,
+      "length": 678
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG3.xnb",
+      "offset": 1779218,
+      "length": 760
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG4.xnb",
+      "offset": 1779978,
+      "length": 726
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG5.xnb",
+      "offset": 1780704,
+      "length": 830
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot3BG6.xnb",
+      "offset": 1781534,
+      "length": 878
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot4.xnb",
+      "offset": 1782412,
+      "length": 9756
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot5.xnb",
+      "offset": 1792168,
+      "length": 15512
+    },
+    {
+      "path": "Art/Cutscenes/Ending/Backgrounds/Shot6BG1.xnb",
+      "offset": 1807680,
+      "length": 6330
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/FilterRepairBackgrounds.xml",
+      "offset": 1814010,
+      "length": 6129
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG0.xnb",
+      "offset": 1820139,
+      "length": 13048
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot1BG1.xnb",
+      "offset": 1833187,
+      "length": 8930
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot2BG0.xnb",
+      "offset": 1842117,
+      "length": 2634
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG0.xnb",
+      "offset": 1844751,
+      "length": 590
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG1.xnb",
+      "offset": 1845341,
+      "length": 22494
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG2.xnb",
+      "offset": 1867835,
+      "length": 18862
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot3BG2Leotard.xnb",
+      "offset": 1886697,
+      "length": 17682
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot4BG0.xnb",
+      "offset": 1904379,
+      "length": 7510
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot5BG0.xnb",
+      "offset": 1911889,
+      "length": 5506
+    },
+    {
+      "path": "Art/Cutscenes/FilterRepair/Backgrounds/Shot6BG0.xnb",
+      "offset": 1917395,
+      "length": 6672
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/IntroBackgrounds.xml",
+      "offset": 1924067,
+      "length": 18203
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Matte288x176.xnb",
+      "offset": 1942270,
+      "length": 1142
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Matte288x176CRT.xnb",
+      "offset": 1943412,
+      "length": 1268
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Matte288x72.xnb",
+      "offset": 1944680,
+      "length": 956
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG1.xnb",
+      "offset": 1945636,
+      "length": 3940
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG2.xnb",
+      "offset": 1949576,
+      "length": 678
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG3.xnb",
+      "offset": 1950254,
+      "length": 750
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG4.xnb",
+      "offset": 1951004,
+      "length": 720
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG5.xnb",
+      "offset": 1951724,
+      "length": 818
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0BG6.xnb",
+      "offset": 1952542,
+      "length": 870
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0FG0.xnb",
+      "offset": 1953412,
+      "length": 6436
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0Mist.xnb",
+      "offset": 1959848,
+      "length": 3030
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot0Mountains.xnb",
+      "offset": 1962878,
+      "length": 1694
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot10BG.xnb",
+      "offset": 1964572,
+      "length": 2696
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot11BG.xnb",
+      "offset": 1967268,
+      "length": 2554
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot11Bricks.xnb",
+      "offset": 1969822,
+      "length": 3084
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot11Glass.xnb",
+      "offset": 1972906,
+      "length": 2038
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot11Trace.xnb",
+      "offset": 1974944,
+      "length": 2842
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot12BG.xnb",
+      "offset": 1977786,
+      "length": 6002
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot13BG.xnb",
+      "offset": 1983788,
+      "length": 4092
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot1Scanlines.xnb",
+      "offset": 1987880,
+      "length": 538
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot1Sky.xnb",
+      "offset": 1988418,
+      "length": 2716
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot1ZMachine.xnb",
+      "offset": 1991134,
+      "length": 14770
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot2BG1.xnb",
+      "offset": 2005904,
+      "length": 5914
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot2OscillatorRoom.xnb",
+      "offset": 2011818,
+      "length": 10266
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot3Ham.xnb",
+      "offset": 2022084,
+      "length": 2118
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot3Oscillator.xnb",
+      "offset": 2024202,
+      "length": 580
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot3Trace.xnb",
+      "offset": 2024782,
+      "length": 2214
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot4BG.xnb",
+      "offset": 2026996,
+      "length": 3662
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot5BG.xnb",
+      "offset": 2030658,
+      "length": 10664
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot6BG.xnb",
+      "offset": 2041322,
+      "length": 4476
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot7BG.xnb",
+      "offset": 2045798,
+      "length": 4850
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot8BG.xnb",
+      "offset": 2050648,
+      "length": 4172
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot9BBG.xnb",
+      "offset": 2054820,
+      "length": 4514
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Shot9BG.xnb",
+      "offset": 2059334,
+      "length": 2724
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/ShotABG.xnb",
+      "offset": 2062058,
+      "length": 8758
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/ShotAZMachine.xnb",
+      "offset": 2070816,
+      "length": 17886
+    },
+    {
+      "path": "Art/Cutscenes/Intro/Backgrounds/Video1.xnb",
+      "offset": 2088702,
+      "length": 296
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/Athetos.xnb",
+      "offset": 2088998,
+      "length": 1098
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/DeformedAthetos.xnb",
+      "offset": 2090096,
+      "length": 1050
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ElsenovaAsleep.xnb",
+      "offset": 2091146,
+      "length": 1142
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ElsenovaAwake.xnb",
+      "offset": 2092288,
+      "length": 1148
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ElsenovaComplete.xnb",
+      "offset": 2093436,
+      "length": 1072
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ElsenovaRepaired.xnb",
+      "offset": 2094508,
+      "length": 1028
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ElsenovaShadowed.xnb",
+      "offset": 2095536,
+      "length": 418
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/HallucinatoryHead.xnb",
+      "offset": 2095954,
+      "length": 832
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/HallucinatoryHead2.xnb",
+      "offset": 2096786,
+      "length": 828
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/HallucinatoryHead3.xnb",
+      "offset": 2097614,
+      "length": 716
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/MantaBoss.xnb",
+      "offset": 2098330,
+      "length": 1338
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/Ophelia.xnb",
+      "offset": 2099668,
+      "length": 1246
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/ScorpionBoss.xnb",
+      "offset": 2100914,
+      "length": 1092
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/SecurityWorm.xnb",
+      "offset": 2102006,
+      "length": 1122
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/SecurityWormAdvanced.xnb",
+      "offset": 2103128,
+      "length": 1122
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/SlugBoss.xnb",
+      "offset": 2104250,
+      "length": 1232
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/SoldierBoss.xnb",
+      "offset": 2105482,
+      "length": 1148
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnraged.xnb",
+      "offset": 2106630,
+      "length": 1178
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedBlackCoat.xnb",
+      "offset": 2107808,
+      "length": 1206
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedLabCoat.xnb",
+      "offset": 2109014,
+      "length": 1210
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedLeotard.xnb",
+      "offset": 2110224,
+      "length": 1178
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedLeotardBlack.xnb",
+      "offset": 2111402,
+      "length": 1182
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedLeotardRed.xnb",
+      "offset": 2112584,
+      "length": 1178
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedLeotardWhite.xnb",
+      "offset": 2113762,
+      "length": 1178
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceEnragedRedCoat.xnb",
+      "offset": 2114940,
+      "length": 1200
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutral.xnb",
+      "offset": 2116140,
+      "length": 1152
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralBlackCoat.xnb",
+      "offset": 2117292,
+      "length": 1222
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralLabCoat.xnb",
+      "offset": 2118514,
+      "length": 1222
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralLeotard.xnb",
+      "offset": 2119736,
+      "length": 1168
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralLeotardBlack.xnb",
+      "offset": 2120904,
+      "length": 1172
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralLeotardRed.xnb",
+      "offset": 2122076,
+      "length": 1180
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralLeotardWhite.xnb",
+      "offset": 2123256,
+      "length": 1158
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceNeutralRedCoat.xnb",
+      "offset": 2124414,
+      "length": 1212
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSick.xnb",
+      "offset": 2125626,
+      "length": 1234
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickBlackCoat.xnb",
+      "offset": 2126860,
+      "length": 1290
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickLabCoat.xnb",
+      "offset": 2128150,
+      "length": 1298
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickLeotard.xnb",
+      "offset": 2129448,
+      "length": 1250
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickLeotardBlack.xnb",
+      "offset": 2130698,
+      "length": 1256
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickLeotardRed.xnb",
+      "offset": 2131954,
+      "length": 1254
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickLeotardWhite.xnb",
+      "offset": 2133208,
+      "length": 1246
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSickRedCoat.xnb",
+      "offset": 2134454,
+      "length": 1286
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkeptical.xnb",
+      "offset": 2135740,
+      "length": 1156
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalBlackCoat.xnb",
+      "offset": 2136896,
+      "length": 1226
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalLabCoat.xnb",
+      "offset": 2138122,
+      "length": 1226
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalLeotard.xnb",
+      "offset": 2139348,
+      "length": 1170
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalLeotardBlack.xnb",
+      "offset": 2140518,
+      "length": 1180
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalLeotardRed.xnb",
+      "offset": 2141698,
+      "length": 1188
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalLeotardWhite.xnb",
+      "offset": 2142886,
+      "length": 1166
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSkepticalRedCoat.xnb",
+      "offset": 2144052,
+      "length": 1222
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprised.xnb",
+      "offset": 2145274,
+      "length": 1198
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedBlackCoat.xnb",
+      "offset": 2146472,
+      "length": 1236
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedLabCoat.xnb",
+      "offset": 2147708,
+      "length": 1242
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedLeotard.xnb",
+      "offset": 2148950,
+      "length": 1194
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedLeotardBlack.xnb",
+      "offset": 2150144,
+      "length": 1206
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedLeotardRed.xnb",
+      "offset": 2151350,
+      "length": 1208
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedLeotardWhite.xnb",
+      "offset": 2152558,
+      "length": 1196
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/TraceSurprisedRedCoat.xnb",
+      "offset": 2153754,
+      "length": 1230
+    },
+    {
+      "path": "Art/Cutscenes/Portraits/Veruska.xnb",
+      "offset": 2154984,
+      "length": 1026
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionArm.xnb",
+      "offset": 2156010,
+      "length": 920
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionBackCannon.xnb",
+      "offset": 2156930,
+      "length": 650
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionBody.xnb",
+      "offset": 2157580,
+      "length": 1808
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionLegLB.xnb",
+      "offset": 2159388,
+      "length": 1106
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionLegLF.xnb",
+      "offset": 2160494,
+      "length": 926
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionLegRB.xnb",
+      "offset": 2161420,
+      "length": 668
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionLegRF.xnb",
+      "offset": 2162088,
+      "length": 794
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionStinger.xnb",
+      "offset": 2162882,
+      "length": 600
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionStingerHousing.xnb",
+      "offset": 2163482,
+      "length": 1750
+    },
+    {
+      "path": "Art/Sprites/Bosses/Scorpion/Output/ScorpionTailSeg.xnb",
+      "offset": 2165232,
+      "length": 746
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinealEmblem.xnb",
+      "offset": 2165978,
+      "length": 438
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelArm.xnb",
+      "offset": 2166416,
+      "length": 1590
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelBody.xnb",
+      "offset": 2168006,
+      "length": 1040
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelHead.xnb",
+      "offset": 2169046,
+      "length": 554
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelLeavesLeft.xnb",
+      "offset": 2169600,
+      "length": 1152
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelLeavesRight.xnb",
+      "offset": 2170752,
+      "length": 1108
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelMandibleLeft.xnb",
+      "offset": 2171860,
+      "length": 704
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelMandibleRight.xnb",
+      "offset": 2172564,
+      "length": 666
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelNeck.xnb",
+      "offset": 2173230,
+      "length": 896
+    },
+    {
+      "path": "Art/Sprites/Bosses/Sentinel/Output/SentinelShadow.xnb",
+      "offset": 2174126,
+      "length": 486
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/BellyGun.xnb",
+      "offset": 2174612,
+      "length": 974
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody01.xnb",
+      "offset": 2175586,
+      "length": 5280
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody02.xnb",
+      "offset": 2180866,
+      "length": 9838
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody03.xnb",
+      "offset": 2190704,
+      "length": 3574
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody04.xnb",
+      "offset": 2194278,
+      "length": 4366
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody05.xnb",
+      "offset": 2198644,
+      "length": 4262
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody06.xnb",
+      "offset": 2202906,
+      "length": 2666
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody07.xnb",
+      "offset": 2205572,
+      "length": 1266
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody08.xnb",
+      "offset": 2206838,
+      "length": 1266
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody09.xnb",
+      "offset": 2208104,
+      "length": 890
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugBody10.xnb",
+      "offset": 2208994,
+      "length": 634
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugCannonBarrel.xnb",
+      "offset": 2209628,
+      "length": 1122
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugCannonCenterBarrel.xnb",
+      "offset": 2210750,
+      "length": 1616
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugDetritus.xnb",
+      "offset": 2212366,
+      "length": 9532
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugGun.xnb",
+      "offset": 2221898,
+      "length": 1096
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugGunBarrel.xnb",
+      "offset": 2222994,
+      "length": 492
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugGunBase.xnb",
+      "offset": 2223486,
+      "length": 886
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugHead.xnb",
+      "offset": 2224372,
+      "length": 4752
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugLeg.xnb",
+      "offset": 2229124,
+      "length": 692
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugNeck.xnb",
+      "offset": 2229816,
+      "length": 3162
+    },
+    {
+      "path": "Art/Sprites/Bosses/Slug/Output/SlugShoulderCannon.xnb",
+      "offset": 2232978,
+      "length": 2610
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierBody.xnb",
+      "offset": 2235588,
+      "length": 2418
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierGun.xnb",
+      "offset": 2238006,
+      "length": 1964
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierLeftArm.xnb",
+      "offset": 2239970,
+      "length": 1142
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierLeftFoot.xnb",
+      "offset": 2241112,
+      "length": 1190
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierLeftLeg.xnb",
+      "offset": 2242302,
+      "length": 934
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierLeftUpperArm.xnb",
+      "offset": 2243236,
+      "length": 574
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierRightArm.xnb",
+      "offset": 2243810,
+      "length": 1016
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierRightFoot.xnb",
+      "offset": 2244826,
+      "length": 1190
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierRightLeg.xnb",
+      "offset": 2246016,
+      "length": 934
+    },
+    {
+      "path": "Art/Sprites/Bosses/Soldier/Output/SoldierRightUpperArm.xnb",
+      "offset": 2246950,
+      "length": 574
+    },
+    {
+      "path": "Art/Sprites/Bosses/SpitBugBoss/Output/SpitBugBossAbdomen.xnb",
+      "offset": 2247524,
+      "length": 1790
+    },
+    {
+      "path": "Art/Sprites/Bosses/SpitBugBoss/Output/SpitBugBossThorax.xnb",
+      "offset": 2249314,
+      "length": 802
+    },
+    {
+      "path": "Art/Sprites/Packed/AnnihiwaiterTexture.xnb",
+      "offset": 2250116,
+      "length": 996
+    },
+    {
+      "path": "Art/Sprites/Packed/ArachnoptopusTexture.xnb",
+      "offset": 2251112,
+      "length": 3274
+    },
+    {
+      "path": "Art/Sprites/Packed/ArtichokerTexture.xnb",
+      "offset": 2254386,
+      "length": 688
+    },
+    {
+      "path": "Art/Sprites/Packed/AthetosTexture.xnb",
+      "offset": 2255074,
+      "length": 14608
+    },
+    {
+      "path": "Art/Sprites/Packed/BliteTexture.xnb",
+      "offset": 2269682,
+      "length": 798
+    },
+    {
+      "path": "Art/Sprites/Packed/BlurstTexture.xnb",
+      "offset": 2270480,
+      "length": 2626
+    },
+    {
+      "path": "Art/Sprites/Packed/BreachAttractorTexture.xnb",
+      "offset": 2273106,
+      "length": 44088
+    },
+    {
+      "path": "Art/Sprites/Packed/BuhbullTexture.xnb",
+      "offset": 2317194,
+      "length": 1918
+    },
+    {
+      "path": "Art/Sprites/Packed/BuoygTexture.xnb",
+      "offset": 2319112,
+      "length": 542
+    },
+    {
+      "path": "Art/Sprites/Packed/CortantTexture.xnb",
+      "offset": 2319654,
+      "length": 744
+    },
+    {
+      "path": "Art/Sprites/Packed/DaragaTexture.xnb",
+      "offset": 2320398,
+      "length": 5156
+    },
+    {
+      "path": "Art/Sprites/Packed/DeformedTraceTexture.xnb",
+      "offset": 2325554,
+      "length": 12014
+    },
+    {
+      "path": "Art/Sprites/Packed/DiskkoTexture.xnb",
+      "offset": 2337568,
+      "length": 1038
+    },
+    {
+      "path": "Art/Sprites/Packed/DonaughtTexture.xnb",
+      "offset": 2338606,
+      "length": 32022
+    },
+    {
+      "path": "Art/Sprites/Packed/DoorSpritesTexture.xnb",
+      "offset": 2370628,
+      "length": 4738
+    },
+    {
+      "path": "Art/Sprites/Packed/DreamCutsceneTexture.xnb",
+      "offset": 2375366,
+      "length": 32744
+    },
+    {
+      "path": "Art/Sprites/Packed/DrometonTexture.xnb",
+      "offset": 2408110,
+      "length": 6038
+    },
+    {
+      "path": "Art/Sprites/Packed/DroneTexture.xnb",
+      "offset": 2414148,
+      "length": 8952
+    },
+    {
+      "path": "Art/Sprites/Packed/DroneTexture_Repair.xnb",
+      "offset": 2423100,
+      "length": 8948
+    },
+    {
+      "path": "Art/Sprites/Packed/ElsenovaTexture.xnb",
+      "offset": 2432048,
+      "length": 95292
+    },
+    {
+      "path": "Art/Sprites/Packed/EyeCopterTexture.xnb",
+      "offset": 2527340,
+      "length": 442
+    },
+    {
+      "path": "Art/Sprites/Packed/FilterRepairCutsceneTexture.xnb",
+      "offset": 2527782,
+      "length": 6196
+    },
+    {
+      "path": "Art/Sprites/Packed/FlynnStoneTexture.xnb",
+      "offset": 2533978,
+      "length": 6002
+    },
+    {
+      "path": "Art/Sprites/Packed/FungineTexture.xnb",
+      "offset": 2539980,
+      "length": 1012
+    },
+    {
+      "path": "Art/Sprites/Packed/FurglotTexture.xnb",
+      "offset": 2540992,
+      "length": 1444
+    },
+    {
+      "path": "Art/Sprites/Packed/GillTexture.xnb",
+      "offset": 2542436,
+      "length": 518
+    },
+    {
+      "path": "Art/Sprites/Packed/GlitchBombTexture.xnb",
+      "offset": 2542954,
+      "length": 7368
+    },
+    {
+      "path": "Art/Sprites/Packed/GlitchesTexture.xnb",
+      "offset": 2550322,
+      "length": 486
+    },
+    {
+      "path": "Art/Sprites/Packed/GluggTexture.xnb",
+      "offset": 2550808,
+      "length": 2882
+    },
+    {
+      "path": "Art/Sprites/Packed/GoolumnTexture.xnb",
+      "offset": 2553690,
+      "length": 2660
+    },
+    {
+      "path": "Art/Sprites/Packed/GrippingHandsTexture.xnb",
+      "offset": 2556350,
+      "length": 624
+    },
+    {
+      "path": "Art/Sprites/Packed/HoverlingTexture.xnb",
+      "offset": 2556974,
+      "length": 712
+    },
+    {
+      "path": "Art/Sprites/Packed/HuggerTexture.xnb",
+      "offset": 2557686,
+      "length": 3768
+    },
+    {
+      "path": "Art/Sprites/Packed/IntroCutsceneTexture.xnb",
+      "offset": 2561454,
+      "length": 56240
+    },
+    {
+      "path": "Art/Sprites/Packed/ItemSpritesTexture.xnb",
+      "offset": 2617694,
+      "length": 6936
+    },
+    {
+      "path": "Art/Sprites/Packed/JormTexture.xnb",
+      "offset": 2624630,
+      "length": 1382
+    },
+    {
+      "path": "Art/Sprites/Packed/LoopDiatomTexture.xnb",
+      "offset": 2626012,
+      "length": 640
+    },
+    {
+      "path": "Art/Sprites/Packed/LoopDiatomTexture_Violet.xnb",
+      "offset": 2626652,
+      "length": 636
+    },
+    {
+      "path": "Art/Sprites/Packed/MantaBossTexture.xnb",
+      "offset": 2627288,
+      "length": 17096
+    },
+    {
+      "path": "Art/Sprites/Packed/MograTexture.xnb",
+      "offset": 2644384,
+      "length": 2536
+    },
+    {
+      "path": "Art/Sprites/Packed/MushroomPoofTexture.xnb",
+      "offset": 2646920,
+      "length": 2934
+    },
+    {
+      "path": "Art/Sprites/Packed/MutantTexture.xnb",
+      "offset": 2649854,
+      "length": 5230
+    },
+    {
+      "path": "Art/Sprites/Packed/MutantTexture_Blue.xnb",
+      "offset": 2655084,
+      "length": 5238
+    },
+    {
+      "path": "Art/Sprites/Packed/NightRayTexture.xnb",
+      "offset": 2660322,
+      "length": 1514
+    },
+    {
+      "path": "Art/Sprites/Packed/NrokTexture.xnb",
+      "offset": 2661836,
+      "length": 4856
+    },
+    {
+      "path": "Art/Sprites/Packed/OracaTexture.xnb",
+      "offset": 2666692,
+      "length": 46440
+    },
+    {
+      "path": "Art/Sprites/Packed/PistonTexture.xnb",
+      "offset": 2713132,
+      "length": 10142
+    },
+    {
+      "path": "Art/Sprites/Packed/PliaaTexture.xnb",
+      "offset": 2723274,
+      "length": 904
+    },
+    {
+      "path": "Art/Sprites/Packed/PorcupineTexture.xnb",
+      "offset": 2724178,
+      "length": 654
+    },
+    {
+      "path": "Art/Sprites/Packed/PotatoTexture.xnb",
+      "offset": 2724832,
+      "length": 1514
+    },
+    {
+      "path": "Art/Sprites/Packed/PowerCellTexture.xnb",
+      "offset": 2726346,
+      "length": 4030
+    },
+    {
+      "path": "Art/Sprites/Packed/ProngfishTexture.xnb",
+      "offset": 2730376,
+      "length": 3198
+    },
+    {
+      "path": "Art/Sprites/Packed/QuadropusTexture.xnb",
+      "offset": 2733574,
+      "length": 2748
+    },
+    {
+      "path": "Art/Sprites/Packed/RuggTexture.xnb",
+      "offset": 2736322,
+      "length": 748
+    },
+    {
+      "path": "Art/Sprites/Packed/RuggTexture_Meta.xnb",
+      "offset": 2737070,
+      "length": 744
+    },
+    {
+      "path": "Art/Sprites/Packed/SaveStationsTexture.xnb",
+      "offset": 2737814,
+      "length": 42404
+    },
+    {
+      "path": "Art/Sprites/Packed/ScorpiantTexture.xnb",
+      "offset": 2780218,
+      "length": 3658
+    },
+    {
+      "path": "Art/Sprites/Packed/ScorpionBossTexture.xnb",
+      "offset": 2783876,
+      "length": 15340
+    },
+    {
+      "path": "Art/Sprites/Packed/SeamkTexture.xnb",
+      "offset": 2799216,
+      "length": 770
+    },
+    {
+      "path": "Art/Sprites/Packed/SecurityWormAdvancedTexture.xnb",
+      "offset": 2799986,
+      "length": 8976
+    },
+    {
+      "path": "Art/Sprites/Packed/SecurityWormTexture.xnb",
+      "offset": 2808962,
+      "length": 11666
+    },
+    {
+      "path": "Art/Sprites/Packed/SentinelTexture.xnb",
+      "offset": 2820628,
+      "length": 1910
+    },
+    {
+      "path": "Art/Sprites/Packed/SentryBotTexture.xnb",
+      "offset": 2822538,
+      "length": 4620
+    },
+    {
+      "path": "Art/Sprites/Packed/SentryBotTexture_Meta.xnb",
+      "offset": 2827158,
+      "length": 4620
+    },
+    {
+      "path": "Art/Sprites/Packed/SlugBossTexture.xnb",
+      "offset": 2831778,
+      "length": 110884
+    },
+    {
+      "path": "Art/Sprites/Packed/SmallMograTexture.xnb",
+      "offset": 2942662,
+      "length": 720
+    },
+    {
+      "path": "Art/Sprites/Packed/SnailborgTexture.xnb",
+      "offset": 2943382,
+      "length": 528
+    },
+    {
+      "path": "Art/Sprites/Packed/SnailborgTexture_Meta.xnb",
+      "offset": 2943910,
+      "length": 528
+    },
+    {
+      "path": "Art/Sprites/Packed/SoldierBossTexture.xnb",
+      "offset": 2944438,
+      "length": 11976
+    },
+    {
+      "path": "Art/Sprites/Packed/SpaceBatTexture.xnb",
+      "offset": 2956414,
+      "length": 740
+    },
+    {
+      "path": "Art/Sprites/Packed/SpidlerTexture.xnb",
+      "offset": 2957154,
+      "length": 1550
+    },
+    {
+      "path": "Art/Sprites/Packed/SpiruTexture.xnb",
+      "offset": 2958704,
+      "length": 1082
+    },
+    {
+      "path": "Art/Sprites/Packed/SpitBugBossTexture.xnb",
+      "offset": 2959786,
+      "length": 26132
+    },
+    {
+      "path": "Art/Sprites/Packed/SpitBugTexture.xnb",
+      "offset": 2985918,
+      "length": 816
+    },
+    {
+      "path": "Art/Sprites/Packed/SpitbugNestTexture.xnb",
+      "offset": 2986734,
+      "length": 7304
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteEffectsTexture.xnb",
+      "offset": 2994038,
+      "length": 73308
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture.xnb",
+      "offset": 3067346,
+      "length": 144490
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture_Secret1.xnb",
+      "offset": 3211836,
+      "length": 144676
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture_Secret2.xnb",
+      "offset": 3356512,
+      "length": 144850
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture_Secret3.xnb",
+      "offset": 3501362,
+      "length": 144614
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture_Secret4.xnb",
+      "offset": 3645976,
+      "length": 144648
+    },
+    {
+      "path": "Art/Sprites/Packed/SpriteTilesTexture_Secret5.xnb",
+      "offset": 3790624,
+      "length": 144434
+    },
+    {
+      "path": "Art/Sprites/Packed/SpungusSporeTexture.xnb",
+      "offset": 3935058,
+      "length": 786
+    },
+    {
+      "path": "Art/Sprites/Packed/StreegTexture.xnb",
+      "offset": 3935844,
+      "length": 1990
+    },
+    {
+      "path": "Art/Sprites/Packed/SwarmilyTexture.xnb",
+      "offset": 3937834,
+      "length": 1708
+    },
+    {
+      "path": "Art/Sprites/Packed/TendrilsTexture.xnb",
+      "offset": 3939542,
+      "length": 2536
+    },
+    {
+      "path": "Art/Sprites/Packed/TieFlighterTexture.xnb",
+      "offset": 3942078,
+      "length": 770
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture.xnb",
+      "offset": 3942848,
+      "length": 39748
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture_Black.xnb",
+      "offset": 3982596,
+      "length": 39750
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture_Blacker.xnb",
+      "offset": 4022346,
+      "length": 35590
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture_Blue.xnb",
+      "offset": 4057936,
+      "length": 35322
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture_Red.xnb",
+      "offset": 4093258,
+      "length": 39692
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceCoatTexture_Yellow.xnb",
+      "offset": 4132950,
+      "length": 36084
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceLeotardTexture.xnb",
+      "offset": 4169034,
+      "length": 30512
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceLeotardTexture_Black.xnb",
+      "offset": 4199546,
+      "length": 30760
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceLeotardTexture_Red.xnb",
+      "offset": 4230306,
+      "length": 30942
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceLeotardTexture_White.xnb",
+      "offset": 4261248,
+      "length": 30596
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceTexture.xnb",
+      "offset": 4291844,
+      "length": 36102
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceUnarmedLeotardTexture.xnb",
+      "offset": 4327946,
+      "length": 8478
+    },
+    {
+      "path": "Art/Sprites/Packed/TraceUnarmedTexture.xnb",
+      "offset": 4336424,
+      "length": 8322
+    },
+    {
+      "path": "Art/Sprites/Packed/TrapClawTexture.xnb",
+      "offset": 4344746,
+      "length": 1356
+    },
+    {
+      "path": "Art/Sprites/Packed/TrapClawTexture_Gamma.xnb",
+      "offset": 4346102,
+      "length": 1358
+    },
+    {
+      "path": "Art/Sprites/Packed/TrapClawTexture_Meta.xnb",
+      "offset": 4347460,
+      "length": 1354
+    },
+    {
+      "path": "Art/Sprites/Packed/TubeWormTexture.xnb",
+      "offset": 4348814,
+      "length": 2516
+    },
+    {
+      "path": "Art/Sprites/Packed/TubeWormTexture_Meta.xnb",
+      "offset": 4351330,
+      "length": 2516
+    },
+    {
+      "path": "Art/Sprites/Packed/UISpritesTexture.xnb",
+      "offset": 4353846,
+      "length": 2080
+    },
+    {
+      "path": "Art/Sprites/Packed/VolgTexture.xnb",
+      "offset": 4355926,
+      "length": 3946
+    },
+    {
+      "path": "Art/Sprites/Packed/WeaponEffectsTexture.xnb",
+      "offset": 4359872,
+      "length": 15426
+    },
+    {
+      "path": "Art/Sprites/Packed/WillOWispTexture.xnb",
+      "offset": 4375298,
+      "length": 790
+    },
+    {
+      "path": "Art/Sprites/Packed/YorchugTexture.xnb",
+      "offset": 4376088,
+      "length": 2780
+    },
+    {
+      "path": "Art/Sprites/Packed/ZeborgTexture.xnb",
+      "offset": 4378868,
+      "length": 3908
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/BasicSegment0000.xnb",
+      "offset": 4382776,
+      "length": 5814
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/Bayonette.xnb",
+      "offset": 4388590,
+      "length": 1268
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/BayonetteSmall.xnb",
+      "offset": 4389858,
+      "length": 1022
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/Cannon0000.xnb",
+      "offset": 4390880,
+      "length": 2510
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/HeadIdle0000.xnb",
+      "offset": 4393390,
+      "length": 2500
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/NeckSegment0000.xnb",
+      "offset": 4395890,
+      "length": 6584
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/Shield.xnb",
+      "offset": 4402474,
+      "length": 1488
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/Socket.xnb",
+      "offset": 4403962,
+      "length": 1228
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/SocketBack.xnb",
+      "offset": 4405190,
+      "length": 902
+    },
+    {
+      "path": "Art/Sprites/Rusalki/Elsenova/Output/Tail.xnb",
+      "offset": 4406092,
+      "length": 6468
+    },
+    {
+      "path": "Art/Textures/Effects/DrillLaser1.xnb",
+      "offset": 4412560,
+      "length": 304
+    },
+    {
+      "path": "Art/Textures/Effects/DroneDrillLaser1.xnb",
+      "offset": 4412864,
+      "length": 250
+    },
+    {
+      "path": "Art/Textures/Effects/GrappleCord.xnb",
+      "offset": 4413114,
+      "length": 292
+    },
+    {
+      "path": "Art/Textures/Effects/GreyscaleAlphaBeamWide.xnb",
+      "offset": 4413406,
+      "length": 1648
+    },
+    {
+      "path": "Art/Textures/Effects/GreyscaleBeam.xnb",
+      "offset": 4415054,
+      "length": 500
+    },
+    {
+      "path": "Art/Textures/Effects/IonBeam1.xnb",
+      "offset": 4415554,
+      "length": 554
+    },
+    {
+      "path": "Art/Textures/Effects/LightningBolt1.xnb",
+      "offset": 4416108,
+      "length": 2354
+    },
+    {
+      "path": "Art/Textures/Effects/SlugLaser1.xnb",
+      "offset": 4418462,
+      "length": 1004
+    },
+    {
+      "path": "Art/Textures/Effects/SpidlerThread.xnb",
+      "offset": 4419466,
+      "length": 246
+    },
+    {
+      "path": "Art/Textures/Effects/TetheredCharge1.xnb",
+      "offset": 4419712,
+      "length": 388
+    },
+    {
+      "path": "Art/Textures/Effects/TriCone1.xnb",
+      "offset": 4420100,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/Effects/Voranj1.xnb",
+      "offset": 4420474,
+      "length": 270
+    },
+    {
+      "path": "Art/Textures/Effects/WebSlicer1.xnb",
+      "offset": 4420744,
+      "length": 310
+    },
+    {
+      "path": "Art/Textures/Effects/WebSlicer2.xnb",
+      "offset": 4421054,
+      "length": 296
+    },
+    {
+      "path": "Art/Textures/Glitches/Area2GlitchColor1.xnb",
+      "offset": 4421350,
+      "length": 1556
+    },
+    {
+      "path": "Art/Textures/Glitches/CreatureGlitchColor1.xnb",
+      "offset": 4422906,
+      "length": 3840
+    },
+    {
+      "path": "Art/Textures/Glitches/HSyncGlitch1.xnb",
+      "offset": 4426746,
+      "length": 758
+    },
+    {
+      "path": "Art/Textures/Glitches/RandomGlitchTexture1.xnb",
+      "offset": 4427504,
+      "length": 916
+    },
+    {
+      "path": "Art/Textures/Glitches/RandomGlitchTexture2.xnb",
+      "offset": 4428420,
+      "length": 4892
+    },
+    {
+      "path": "Art/Textures/UI/Credits/TentaclesEnd.xnb",
+      "offset": 4433312,
+      "length": 41556
+    },
+    {
+      "path": "Art/Textures/UI/Credits/TentaclesFull.xnb",
+      "offset": 4474868,
+      "length": 73760
+    },
+    {
+      "path": "Art/Textures/UI/Credits/TentaclesLoop.xnb",
+      "offset": 4548628,
+      "length": 32862
+    },
+    {
+      "path": "Art/Textures/UI/E3/E3SaveLabel0.xnb",
+      "offset": 4581490,
+      "length": 744
+    },
+    {
+      "path": "Art/Textures/UI/E3/E3SaveLabel1.xnb",
+      "offset": 4582234,
+      "length": 618
+    },
+    {
+      "path": "Art/Textures/UI/E3/E3SaveLabel2.xnb",
+      "offset": 4582852,
+      "length": 822
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/Font.xnb",
+      "offset": 4583674,
+      "length": 2256
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/Font6x6.xnb",
+      "offset": 4585930,
+      "length": 1638
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/LucidaConsole6MonoGame.xnb",
+      "offset": 4587568,
+      "length": 10692
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/LucidaConsole6XNA.xnb",
+      "offset": 4598260,
+      "length": 14644
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/LucidaConsole8Monogame.xnb",
+      "offset": 4612904,
+      "length": 14180
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/LucidaConsole8XNA.xnb",
+      "offset": 4627084,
+      "length": 18312
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/Moire16MonoGame.xnb",
+      "offset": 4645396,
+      "length": 47538
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/Moire16XNA.xnb",
+      "offset": 4692934,
+      "length": 45770
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/PrimordialCodeFont8x8.xnb",
+      "offset": 4738704,
+      "length": 1324
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/PrimordialScriptFont8x8.xnb",
+      "offset": 4740028,
+      "length": 2104
+    },
+    {
+      "path": "Art/Textures/UI/Fonts/VykhyaFont8x8.xnb",
+      "offset": 4742132,
+      "length": 2344
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_Bottom.xnb",
+      "offset": 4744476,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_BottomLeft.xnb",
+      "offset": 4744706,
+      "length": 252
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_BottomRight.xnb",
+      "offset": 4744958,
+      "length": 250
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_Left.xnb",
+      "offset": 4745208,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_Middle.xnb",
+      "offset": 4745434,
+      "length": 212
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_Right.xnb",
+      "offset": 4745646,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_Top.xnb",
+      "offset": 4745872,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_TopLeft.xnb",
+      "offset": 4746102,
+      "length": 246
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameEquipped_TopRight.xnb",
+      "offset": 4746348,
+      "length": 254
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_Bottom.xnb",
+      "offset": 4746602,
+      "length": 232
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_BottomLeft.xnb",
+      "offset": 4746834,
+      "length": 254
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_BottomRight.xnb",
+      "offset": 4747088,
+      "length": 254
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_Left.xnb",
+      "offset": 4747342,
+      "length": 232
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_Middle.xnb",
+      "offset": 4747574,
+      "length": 208
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_Right.xnb",
+      "offset": 4747782,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_Top.xnb",
+      "offset": 4748012,
+      "length": 234
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_TopLeft.xnb",
+      "offset": 4748246,
+      "length": 250
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameInner_TopRight.xnb",
+      "offset": 4748496,
+      "length": 248
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_Bottom.xnb",
+      "offset": 4748744,
+      "length": 228
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_BottomLeft.xnb",
+      "offset": 4748972,
+      "length": 244
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_BottomRight.xnb",
+      "offset": 4749216,
+      "length": 246
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_Left.xnb",
+      "offset": 4749462,
+      "length": 224
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_Middle.xnb",
+      "offset": 4749686,
+      "length": 208
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_Right.xnb",
+      "offset": 4749894,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_Top.xnb",
+      "offset": 4750120,
+      "length": 228
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_TopLeft.xnb",
+      "offset": 4750348,
+      "length": 240
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameLast_TopRight.xnb",
+      "offset": 4750588,
+      "length": 242
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_Bottom.xnb",
+      "offset": 4750830,
+      "length": 228
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_BottomLeft.xnb",
+      "offset": 4751058,
+      "length": 256
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_BottomRight.xnb",
+      "offset": 4751314,
+      "length": 258
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_Left.xnb",
+      "offset": 4751572,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_Middle.xnb",
+      "offset": 4751798,
+      "length": 208
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_Right.xnb",
+      "offset": 4752006,
+      "length": 224
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_Top.xnb",
+      "offset": 4752230,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_TopLeft.xnb",
+      "offset": 4752460,
+      "length": 256
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FrameMap_TopRight.xnb",
+      "offset": 4752716,
+      "length": 254
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_Bottom.xnb",
+      "offset": 4752970,
+      "length": 232
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_BottomLeft.xnb",
+      "offset": 4753202,
+      "length": 254
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_BottomRight.xnb",
+      "offset": 4753456,
+      "length": 256
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_Left.xnb",
+      "offset": 4753712,
+      "length": 232
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_Middle.xnb",
+      "offset": 4753944,
+      "length": 212
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_Right.xnb",
+      "offset": 4754156,
+      "length": 232
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_Top.xnb",
+      "offset": 4754388,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_TopLeft.xnb",
+      "offset": 4754618,
+      "length": 250
+    },
+    {
+      "path": "Art/Textures/UI/Frames/FramePink_TopRight.xnb",
+      "offset": 4754868,
+      "length": 252
+    },
+    {
+      "path": "Art/Textures/UI/HUD/BombBG.xnb",
+      "offset": 4755120,
+      "length": 240
+    },
+    {
+      "path": "Art/Textures/UI/HUD/BombFG.xnb",
+      "offset": 4755360,
+      "length": 258
+    },
+    {
+      "path": "Art/Textures/UI/HUD/BreathFG.xnb",
+      "offset": 4755618,
+      "length": 228
+    },
+    {
+      "path": "Art/Textures/UI/HUD/DroneHealthFG.xnb",
+      "offset": 4755846,
+      "length": 228
+    },
+    {
+      "path": "Art/Textures/UI/HUD/HealthBG.xnb",
+      "offset": 4756074,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/HUD/HealthFG.xnb",
+      "offset": 4756300,
+      "length": 224
+    },
+    {
+      "path": "Art/Textures/UI/HUD/LockPosition.xnb",
+      "offset": 4756524,
+      "length": 276
+    },
+    {
+      "path": "Art/Textures/UI/Input/AButton.xnb",
+      "offset": 4756800,
+      "length": 300
+    },
+    {
+      "path": "Art/Textures/UI/Input/BButton.xnb",
+      "offset": 4757100,
+      "length": 302
+    },
+    {
+      "path": "Art/Textures/UI/Input/CircleButton.xnb",
+      "offset": 4757402,
+      "length": 330
+    },
+    {
+      "path": "Art/Textures/UI/Input/Controller.xnb",
+      "offset": 4757732,
+      "length": 9358
+    },
+    {
+      "path": "Art/Textures/UI/Input/CrossButton.xnb",
+      "offset": 4767090,
+      "length": 344
+    },
+    {
+      "path": "Art/Textures/UI/Input/DPadDown.xnb",
+      "offset": 4767434,
+      "length": 320
+    },
+    {
+      "path": "Art/Textures/UI/Input/DPadLeft.xnb",
+      "offset": 4767754,
+      "length": 318
+    },
+    {
+      "path": "Art/Textures/UI/Input/DPadRight.xnb",
+      "offset": 4768072,
+      "length": 324
+    },
+    {
+      "path": "Art/Textures/UI/Input/DPadUp.xnb",
+      "offset": 4768396,
+      "length": 322
+    },
+    {
+      "path": "Art/Textures/UI/Input/DoubleDPadRight.xnb",
+      "offset": 4768718,
+      "length": 536
+    },
+    {
+      "path": "Art/Textures/UI/Input/Keyboard.xnb",
+      "offset": 4769254,
+      "length": 7760
+    },
+    {
+      "path": "Art/Textures/UI/Input/L1Button.xnb",
+      "offset": 4777014,
+      "length": 310
+    },
+    {
+      "path": "Art/Textures/UI/Input/L2Button.xnb",
+      "offset": 4777324,
+      "length": 342
+    },
+    {
+      "path": "Art/Textures/UI/Input/L3Button.xnb",
+      "offset": 4777666,
+      "length": 392
+    },
+    {
+      "path": "Art/Textures/UI/Input/LButton.xnb",
+      "offset": 4778058,
+      "length": 294
+    },
+    {
+      "path": "Art/Textures/UI/Input/LButtonAndRButton.xnb",
+      "offset": 4778352,
+      "length": 342
+    },
+    {
+      "path": "Art/Textures/UI/Input/LTrigger.xnb",
+      "offset": 4778694,
+      "length": 312
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4BigButton.xnb",
+      "offset": 4779006,
+      "length": 280
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4Controller.xnb",
+      "offset": 4779286,
+      "length": 7700
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4DPadDown.xnb",
+      "offset": 4786986,
+      "length": 320
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4DPadLeft.xnb",
+      "offset": 4787306,
+      "length": 320
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4DPadRight.xnb",
+      "offset": 4787626,
+      "length": 318
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4DPadUp.xnb",
+      "offset": 4787944,
+      "length": 318
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4DoubleDPadRight.xnb",
+      "offset": 4788262,
+      "length": 492
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalog.xnb",
+      "offset": 4788754,
+      "length": 356
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalogDown.xnb",
+      "offset": 4789110,
+      "length": 386
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalogEqualsDPad.xnb",
+      "offset": 4789496,
+      "length": 448
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalogLeft.xnb",
+      "offset": 4789944,
+      "length": 370
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalogRight.xnb",
+      "offset": 4790314,
+      "length": 378
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4LeftAnalogUp.xnb",
+      "offset": 4790692,
+      "length": 384
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4OptionsButton.xnb",
+      "offset": 4791076,
+      "length": 282
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4RightAnalog.xnb",
+      "offset": 4791358,
+      "length": 366
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4RightAnalogDown.xnb",
+      "offset": 4791724,
+      "length": 390
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4RightAnalogLeft.xnb",
+      "offset": 4792114,
+      "length": 376
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4RightAnalogRight.xnb",
+      "offset": 4792490,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4RightAnalogUp.xnb",
+      "offset": 4792864,
+      "length": 380
+    },
+    {
+      "path": "Art/Textures/UI/Input/PS4ShareButton.xnb",
+      "offset": 4793244,
+      "length": 294
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect1.xnb",
+      "offset": 4793538,
+      "length": 259
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect10.xnb",
+      "offset": 4793797,
+      "length": 220
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect2.xnb",
+      "offset": 4794017,
+      "length": 220
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect3.xnb",
+      "offset": 4794237,
+      "length": 218
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect4.xnb",
+      "offset": 4794455,
+      "length": 218
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect5.xnb",
+      "offset": 4794673,
+      "length": 220
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect6.xnb",
+      "offset": 4794893,
+      "length": 220
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect7.xnb",
+      "offset": 4795113,
+      "length": 218
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect8.xnb",
+      "offset": 4795331,
+      "length": 222
+    },
+    {
+      "path": "Art/Textures/UI/Input/QuickSelect9.xnb",
+      "offset": 4795553,
+      "length": 218
+    },
+    {
+      "path": "Art/Textures/UI/Input/R1Button.xnb",
+      "offset": 4795771,
+      "length": 326
+    },
+    {
+      "path": "Art/Textures/UI/Input/R2Button.xnb",
+      "offset": 4796097,
+      "length": 358
+    },
+    {
+      "path": "Art/Textures/UI/Input/R3Button.xnb",
+      "offset": 4796455,
+      "length": 384
+    },
+    {
+      "path": "Art/Textures/UI/Input/RButton.xnb",
+      "offset": 4796839,
+      "length": 294
+    },
+    {
+      "path": "Art/Textures/UI/Input/RTrigger.xnb",
+      "offset": 4797133,
+      "length": 314
+    },
+    {
+      "path": "Art/Textures/UI/Input/RingDial.xnb",
+      "offset": 4797447,
+      "length": 251
+    },
+    {
+      "path": "Art/Textures/UI/Input/SquareButton.xnb",
+      "offset": 4797698,
+      "length": 326
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchAButton.xnb",
+      "offset": 4798024,
+      "length": 296
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchBButton.xnb",
+      "offset": 4798320,
+      "length": 306
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchDPadDown.xnb",
+      "offset": 4798626,
+      "length": 296
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchDPadLeft.xnb",
+      "offset": 4798922,
+      "length": 302
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchDPadRight.xnb",
+      "offset": 4799224,
+      "length": 300
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchDPadUp.xnb",
+      "offset": 4799524,
+      "length": 298
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchDoubleDPadRight.xnb",
+      "offset": 4799822,
+      "length": 356
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLButton.xnb",
+      "offset": 4800178,
+      "length": 246
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLButtonAndRButton.xnb",
+      "offset": 4800424,
+      "length": 288
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalog.xnb",
+      "offset": 4800712,
+      "length": 338
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogDown.xnb",
+      "offset": 4801050,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogEqualsDPad.xnb",
+      "offset": 4801424,
+      "length": 434
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogLeft.xnb",
+      "offset": 4801858,
+      "length": 354
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogPress.xnb",
+      "offset": 4802212,
+      "length": 380
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogRight.xnb",
+      "offset": 4802592,
+      "length": 354
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchLeftAnalogUp.xnb",
+      "offset": 4802946,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchMinusButton.xnb",
+      "offset": 4803320,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchPlusButton.xnb",
+      "offset": 4803550,
+      "length": 260
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRButton.xnb",
+      "offset": 4803810,
+      "length": 256
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalog.xnb",
+      "offset": 4804066,
+      "length": 340
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalogDown.xnb",
+      "offset": 4804406,
+      "length": 372
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalogLeft.xnb",
+      "offset": 4804778,
+      "length": 356
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalogPress.xnb",
+      "offset": 4805134,
+      "length": 380
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalogRight.xnb",
+      "offset": 4805514,
+      "length": 358
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchRightAnalogUp.xnb",
+      "offset": 4805872,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchXButton.xnb",
+      "offset": 4806246,
+      "length": 312
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchYButton.xnb",
+      "offset": 4806558,
+      "length": 302
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchZLButton.xnb",
+      "offset": 4806860,
+      "length": 298
+    },
+    {
+      "path": "Art/Textures/UI/Input/SwitchZRButton.xnb",
+      "offset": 4807158,
+      "length": 292
+    },
+    {
+      "path": "Art/Textures/UI/Input/TriangleButton.xnb",
+      "offset": 4807450,
+      "length": 312
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360BackButton.xnb",
+      "offset": 4807762,
+      "length": 304
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360BigButton.xnb",
+      "offset": 4808066,
+      "length": 364
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalog.xnb",
+      "offset": 4808430,
+      "length": 372
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogDown.xnb",
+      "offset": 4808802,
+      "length": 378
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogEqualsDPad.xnb",
+      "offset": 4809180,
+      "length": 452
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogLeft.xnb",
+      "offset": 4809632,
+      "length": 366
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogPress.xnb",
+      "offset": 4809998,
+      "length": 384
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogRight.xnb",
+      "offset": 4810382,
+      "length": 366
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360LeftAnalogUp.xnb",
+      "offset": 4810748,
+      "length": 376
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalog.xnb",
+      "offset": 4811124,
+      "length": 374
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalogDown.xnb",
+      "offset": 4811498,
+      "length": 394
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalogLeft.xnb",
+      "offset": 4811892,
+      "length": 370
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalogPress.xnb",
+      "offset": 4812262,
+      "length": 386
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalogRight.xnb",
+      "offset": 4812648,
+      "length": 372
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360RightAnalogUp.xnb",
+      "offset": 4813020,
+      "length": 384
+    },
+    {
+      "path": "Art/Textures/UI/Input/X360StartButton.xnb",
+      "offset": 4813404,
+      "length": 308
+    },
+    {
+      "path": "Art/Textures/UI/Input/XButton.xnb",
+      "offset": 4813712,
+      "length": 316
+    },
+    {
+      "path": "Art/Textures/UI/Input/YButton.xnb",
+      "offset": 4814028,
+      "length": 300
+    },
+    {
+      "path": "Art/Textures/UI/Inventory/AxiomDisruptor_English.xnb",
+      "offset": 4814328,
+      "length": 1662
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview1.xnb",
+      "offset": 4815990,
+      "length": 448
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview2.xnb",
+      "offset": 4816438,
+      "length": 490
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview3.xnb",
+      "offset": 4816928,
+      "length": 438
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview4.xnb",
+      "offset": 4817366,
+      "length": 516
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview5.xnb",
+      "offset": 4817882,
+      "length": 372
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview6.xnb",
+      "offset": 4818254,
+      "length": 422
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview7.xnb",
+      "offset": 4818676,
+      "length": 440
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview8.xnb",
+      "offset": 4819116,
+      "length": 456
+    },
+    {
+      "path": "Art/Textures/UI/Map/AreaOverview9.xnb",
+      "offset": 4819572,
+      "length": 346
+    },
+    {
+      "path": "Art/Textures/UI/Map/CompletionPip.xnb",
+      "offset": 4819918,
+      "length": 230
+    },
+    {
+      "path": "Art/Textures/UI/Map/EntranceArrowDown.xnb",
+      "offset": 4820148,
+      "length": 222
+    },
+    {
+      "path": "Art/Textures/UI/Map/EntranceArrowLeft.xnb",
+      "offset": 4820370,
+      "length": 224
+    },
+    {
+      "path": "Art/Textures/UI/Map/EntranceArrowRight.xnb",
+      "offset": 4820594,
+      "length": 226
+    },
+    {
+      "path": "Art/Textures/UI/Map/EntranceArrowUp.xnb",
+      "offset": 4820820,
+      "length": 222
+    },
+    {
+      "path": "Art/Textures/UI/TitleScreen/PushStart.xnb",
+      "offset": 4821042,
+      "length": 356
+    },
+    {
+      "path": "Art/Textures/UI/TitleScreen/TitleScreen.xnb",
+      "offset": 4821398,
+      "length": 9914
+    },
+    {
+      "path": "Art/Textures/Utility/COL_Invulnerable.xnb",
+      "offset": 4831312,
+      "length": 350
+    },
+    {
+      "path": "Art/Textures/Utility/COL_Vulnerable.xnb",
+      "offset": 4831662,
+      "length": 350
+    },
+    {
+      "path": "Art/Textures/Utility/GenericGray.xnb",
+      "offset": 4832012,
+      "length": 242
+    },
+    {
+      "path": "Art/Textures/Utility/GenericWhite.xnb",
+      "offset": 4832254,
+      "length": 236
+    },
+    {
+      "path": "Art/TileSets/Area1.xnb",
+      "offset": 4832490,
+      "length": 28986
+    },
+    {
+      "path": "Art/TileSets/Area1Secret1.xnb",
+      "offset": 4861476,
+      "length": 22994
+    },
+    {
+      "path": "Art/TileSets/Area1Secret2.xnb",
+      "offset": 4884470,
+      "length": 23044
+    },
+    {
+      "path": "Art/TileSets/Area1Secret3.xnb",
+      "offset": 4907514,
+      "length": 22968
+    },
+    {
+      "path": "Art/TileSets/Area1Secret4.xnb",
+      "offset": 4930482,
+      "length": 23012
+    },
+    {
+      "path": "Art/TileSets/Area1Secret5.xnb",
+      "offset": 4953494,
+      "length": 22938
+    },
+    {
+      "path": "Art/TileSets/Area2.xnb",
+      "offset": 4976432,
+      "length": 172892
+    },
+    {
+      "path": "Art/TileSets/Area2Glitch1.xnb",
+      "offset": 5149324,
+      "length": 14508
+    },
+    {
+      "path": "Art/TileSets/Area2Secret1.xnb",
+      "offset": 5163832,
+      "length": 64304
+    },
+    {
+      "path": "Art/TileSets/Area2Secret2.xnb",
+      "offset": 5228136,
+      "length": 64370
+    },
+    {
+      "path": "Art/TileSets/Area2Secret3.xnb",
+      "offset": 5292506,
+      "length": 64326
+    },
+    {
+      "path": "Art/TileSets/Area2Secret4.xnb",
+      "offset": 5356832,
+      "length": 64382
+    },
+    {
+      "path": "Art/TileSets/Area2Secret5.xnb",
+      "offset": 5421214,
+      "length": 64312
+    },
+    {
+      "path": "Art/TileSets/Area3.xnb",
+      "offset": 5485526,
+      "length": 139826
+    },
+    {
+      "path": "Art/TileSets/Area3Secret1.xnb",
+      "offset": 5625352,
+      "length": 66212
+    },
+    {
+      "path": "Art/TileSets/Area3Secret2.xnb",
+      "offset": 5691564,
+      "length": 66256
+    },
+    {
+      "path": "Art/TileSets/Area3Secret3.xnb",
+      "offset": 5757820,
+      "length": 66226
+    },
+    {
+      "path": "Art/TileSets/Area3Secret4.xnb",
+      "offset": 5824046,
+      "length": 66294
+    },
+    {
+      "path": "Art/TileSets/Area3Secret5.xnb",
+      "offset": 5890340,
+      "length": 66150
+    },
+    {
+      "path": "Art/TileSets/Area4.xnb",
+      "offset": 5956490,
+      "length": 215402
+    },
+    {
+      "path": "Art/TileSets/Area4Secret1.xnb",
+      "offset": 6171892,
+      "length": 73030
+    },
+    {
+      "path": "Art/TileSets/Area4Secret2.xnb",
+      "offset": 6244922,
+      "length": 73222
+    },
+    {
+      "path": "Art/TileSets/Area4Secret3.xnb",
+      "offset": 6318144,
+      "length": 73216
+    },
+    {
+      "path": "Art/TileSets/Area4Secret4.xnb",
+      "offset": 6391360,
+      "length": 73144
+    },
+    {
+      "path": "Art/TileSets/Area4Secret5.xnb",
+      "offset": 6464504,
+      "length": 73012
+    },
+    {
+      "path": "Art/TileSets/Area5.xnb",
+      "offset": 6537516,
+      "length": 132256
+    },
+    {
+      "path": "Art/TileSets/Area5Secret1.xnb",
+      "offset": 6669772,
+      "length": 48578
+    },
+    {
+      "path": "Art/TileSets/Area5Secret2.xnb",
+      "offset": 6718350,
+      "length": 48616
+    },
+    {
+      "path": "Art/TileSets/Area5Secret3.xnb",
+      "offset": 6766966,
+      "length": 48570
+    },
+    {
+      "path": "Art/TileSets/Area5Secret4.xnb",
+      "offset": 6815536,
+      "length": 48638
+    },
+    {
+      "path": "Art/TileSets/Area5Secret5.xnb",
+      "offset": 6864174,
+      "length": 48514
+    },
+    {
+      "path": "Art/TileSets/Area6.xnb",
+      "offset": 6912688,
+      "length": 76634
+    },
+    {
+      "path": "Art/TileSets/Area6Secret1.xnb",
+      "offset": 6989322,
+      "length": 61594
+    },
+    {
+      "path": "Art/TileSets/Area6Secret2.xnb",
+      "offset": 7050916,
+      "length": 61570
+    },
+    {
+      "path": "Art/TileSets/Area6Secret3.xnb",
+      "offset": 7112486,
+      "length": 61738
+    },
+    {
+      "path": "Art/TileSets/Area6Secret4.xnb",
+      "offset": 7174224,
+      "length": 61786
+    },
+    {
+      "path": "Art/TileSets/Area6Secret5.xnb",
+      "offset": 7236010,
+      "length": 61790
+    },
+    {
+      "path": "Art/TileSets/Area7.xnb",
+      "offset": 7297800,
+      "length": 129890
+    },
+    {
+      "path": "Art/TileSets/Area7Secret1.xnb",
+      "offset": 7427690,
+      "length": 74510
+    },
+    {
+      "path": "Art/TileSets/Area7Secret2.xnb",
+      "offset": 7502200,
+      "length": 74570
+    },
+    {
+      "path": "Art/TileSets/Area7Secret3.xnb",
+      "offset": 7576770,
+      "length": 74566
+    },
+    {
+      "path": "Art/TileSets/Area7Secret4.xnb",
+      "offset": 7651336,
+      "length": 74754
+    },
+    {
+      "path": "Art/TileSets/Area7Secret5.xnb",
+      "offset": 7726090,
+      "length": 74742
+    },
+    {
+      "path": "Art/TileSets/Area8.xnb",
+      "offset": 7800832,
+      "length": 113852
+    },
+    {
+      "path": "Art/TileSets/Area8Secret1.xnb",
+      "offset": 7914684,
+      "length": 47796
+    },
+    {
+      "path": "Art/TileSets/Area8Secret2.xnb",
+      "offset": 7962480,
+      "length": 47592
+    },
+    {
+      "path": "Art/TileSets/Area8Secret3.xnb",
+      "offset": 8010072,
+      "length": 47556
+    },
+    {
+      "path": "Art/TileSets/Area8Secret4.xnb",
+      "offset": 8057628,
+      "length": 47756
+    },
+    {
+      "path": "Art/TileSets/Area8Secret5.xnb",
+      "offset": 8105384,
+      "length": 47702
+    },
+    {
+      "path": "Art/TileSets/Area9.xnb",
+      "offset": 8153086,
+      "length": 206186
+    },
+    {
+      "path": "Art/TileSets/Area9Secret1.xnb",
+      "offset": 8359272,
+      "length": 115928
+    },
+    {
+      "path": "Art/TileSets/Area9Secret2.xnb",
+      "offset": 8475200,
+      "length": 115934
+    },
+    {
+      "path": "Art/TileSets/Area9Secret3.xnb",
+      "offset": 8591134,
+      "length": 115904
+    },
+    {
+      "path": "Art/TileSets/Area9Secret4.xnb",
+      "offset": 8707038,
+      "length": 115918
+    },
+    {
+      "path": "Art/TileSets/Area9Secret5.xnb",
+      "offset": 8822956,
+      "length": 115878
+    },
+    {
+      "path": "Art/TileSets/CrackedTiles.xnb",
+      "offset": 8938834,
+      "length": 1846
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher1.xnb",
+      "offset": 8940680,
+      "length": 9696
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher2.xnb",
+      "offset": 8950376,
+      "length": 79944
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher3.xnb",
+      "offset": 9030320,
+      "length": 84620
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher4.xnb",
+      "offset": 9114940,
+      "length": 137136
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher5.xnb",
+      "offset": 9252076,
+      "length": 163472
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher6.xnb",
+      "offset": 9415548,
+      "length": 22782
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher7.xnb",
+      "offset": 9438330,
+      "length": 70734
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher8.xnb",
+      "offset": 9509064,
+      "length": 55128
+    },
+    {
+      "path": "Art/TileSets/MemoryTrasher9.xnb",
+      "offset": 9564192,
+      "length": 47888
+    },
+    {
+      "path": "Audio/SoundEffects/AddressDisruptor.xnb",
+      "offset": 9612080,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/AirTeleportSuccess.xnb",
+      "offset": 10012237,
+      "length": 76989
+    },
+    {
+      "path": "Audio/SoundEffects/BliteSting.xnb",
+      "offset": 10089226,
+      "length": 68341
+    },
+    {
+      "path": "Audio/SoundEffects/BossExplosion1.xnb",
+      "offset": 10157567,
+      "length": 803045
+    },
+    {
+      "path": "Audio/SoundEffects/BreathMeter.xnb",
+      "offset": 10960612,
+      "length": 167869
+    },
+    {
+      "path": "Audio/SoundEffects/Bubbles.xnb",
+      "offset": 11128481,
+      "length": 59321
+    },
+    {
+      "path": "Audio/SoundEffects/BuildingCollapse1.xnb",
+      "offset": 11187802,
+      "length": 327027
+    },
+    {
+      "path": "Audio/SoundEffects/BuildingCollapse2.xnb",
+      "offset": 11514829,
+      "length": 149735
+    },
+    {
+      "path": "Audio/SoundEffects/DataDisruptor1.xnb",
+      "offset": 11664564,
+      "length": 98233
+    },
+    {
+      "path": "Audio/SoundEffects/DataDisruptorImpact1.xnb",
+      "offset": 11762797,
+      "length": 41293
+    },
+    {
+      "path": "Audio/SoundEffects/DataGrenade.xnb",
+      "offset": 11804090,
+      "length": 222205
+    },
+    {
+      "path": "Audio/SoundEffects/DialogClose.xnb",
+      "offset": 12026295,
+      "length": 41161
+    },
+    {
+      "path": "Audio/SoundEffects/DialogOpen.xnb",
+      "offset": 12067456,
+      "length": 41161
+    },
+    {
+      "path": "Audio/SoundEffects/DiskkoLaser.xnb",
+      "offset": 12108617,
+      "length": 54131
+    },
+    {
+      "path": "Audio/SoundEffects/DistortionField.xnb",
+      "offset": 12162748,
+      "length": 145805
+    },
+    {
+      "path": "Audio/SoundEffects/DragaMouthClose.xnb",
+      "offset": 12308553,
+      "length": 36535
+    },
+    {
+      "path": "Audio/SoundEffects/DrillImpactLoop.xnb",
+      "offset": 12345088,
+      "length": 400145
+    },
+    {
+      "path": "Audio/SoundEffects/DrillLoop.xnb",
+      "offset": 12745233,
+      "length": 383757
+    },
+    {
+      "path": "Audio/SoundEffects/DrillStoneLoop.xnb",
+      "offset": 13128990,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/DroneDeath.xnb",
+      "offset": 13529147,
+      "length": 171637
+    },
+    {
+      "path": "Audio/SoundEffects/DroneDrill.xnb",
+      "offset": 13700784,
+      "length": 158441
+    },
+    {
+      "path": "Audio/SoundEffects/DroneError.xnb",
+      "offset": 13859225,
+      "length": 41595
+    },
+    {
+      "path": "Audio/SoundEffects/DroneFootstep.xnb",
+      "offset": 13900820,
+      "length": 14711
+    },
+    {
+      "path": "Audio/SoundEffects/DroneJump.xnb",
+      "offset": 13915531,
+      "length": 24767
+    },
+    {
+      "path": "Audio/SoundEffects/DroneLand.xnb",
+      "offset": 13940298,
+      "length": 30721
+    },
+    {
+      "path": "Audio/SoundEffects/DroneReturnToTrace.xnb",
+      "offset": 13971019,
+      "length": 84579
+    },
+    {
+      "path": "Audio/SoundEffects/DroneTeleport.xnb",
+      "offset": 14055598,
+      "length": 125673
+    },
+    {
+      "path": "Audio/SoundEffects/DroneTeleport2.xnb",
+      "offset": 14181271,
+      "length": 70633
+    },
+    {
+      "path": "Audio/SoundEffects/DroneWound.xnb",
+      "offset": 14251904,
+      "length": 47655
+    },
+    {
+      "path": "Audio/SoundEffects/Echoeybleeps.xnb",
+      "offset": 14299559,
+      "length": 266155
+    },
+    {
+      "path": "Audio/SoundEffects/EggHitTop.xnb",
+      "offset": 14565714,
+      "length": 188101
+    },
+    {
+      "path": "Audio/SoundEffects/EggLift.xnb",
+      "offset": 14753815,
+      "length": 362625
+    },
+    {
+      "path": "Audio/SoundEffects/ElevatorClank.xnb",
+      "offset": 15116440,
+      "length": 59325
+    },
+    {
+      "path": "Audio/SoundEffects/ElsenovaCannon.xnb",
+      "offset": 15175765,
+      "length": 176949
+    },
+    {
+      "path": "Audio/SoundEffects/EnterDoor.xnb",
+      "offset": 15352714,
+      "length": 115797
+    },
+    {
+      "path": "Audio/SoundEffects/EnterText.xnb",
+      "offset": 15468511,
+      "length": 19275
+    },
+    {
+      "path": "Audio/SoundEffects/Fall.xnb",
+      "offset": 15487786,
+      "length": 46575
+    },
+    {
+      "path": "Audio/SoundEffects/FatBeamFire.xnb",
+      "offset": 15534361,
+      "length": 438245
+    },
+    {
+      "path": "Audio/SoundEffects/FatBeamTarget.xnb",
+      "offset": 15972606,
+      "length": 190333
+    },
+    {
+      "path": "Audio/SoundEffects/FireWall1.xnb",
+      "offset": 16162939,
+      "length": 124045
+    },
+    {
+      "path": "Audio/SoundEffects/Flamethrower1.xnb",
+      "offset": 16286984,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/Flamethrower2.xnb",
+      "offset": 16687141,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/FlipSwitch.xnb",
+      "offset": 17087298,
+      "length": 28245
+    },
+    {
+      "path": "Audio/SoundEffects/FlynnStoneCharge.xnb",
+      "offset": 17115543,
+      "length": 119257
+    },
+    {
+      "path": "Audio/SoundEffects/FlynnStoneRev.xnb",
+      "offset": 17234800,
+      "length": 94455
+    },
+    {
+      "path": "Audio/SoundEffects/ForceFieldDeactivate.xnb",
+      "offset": 17329255,
+      "length": 224133
+    },
+    {
+      "path": "Audio/SoundEffects/FurglotJump.xnb",
+      "offset": 17553388,
+      "length": 34061
+    },
+    {
+      "path": "Audio/SoundEffects/Gallop.xnb",
+      "offset": 17587449,
+      "length": 23671
+    },
+    {
+      "path": "Audio/SoundEffects/GenericBack.xnb",
+      "offset": 17611120,
+      "length": 41129
+    },
+    {
+      "path": "Audio/SoundEffects/GenericConfirm.xnb",
+      "offset": 17652249,
+      "length": 157677
+    },
+    {
+      "path": "Audio/SoundEffects/GenericExplosion1.xnb",
+      "offset": 17809926,
+      "length": 135245
+    },
+    {
+      "path": "Audio/SoundEffects/GenericSelect.xnb",
+      "offset": 17945171,
+      "length": 74153
+    },
+    {
+      "path": "Audio/SoundEffects/GillLaser.xnb",
+      "offset": 18019324,
+      "length": 262965
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchBombDrop.xnb",
+      "offset": 18282289,
+      "length": 82903
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchBombExplode.xnb",
+      "offset": 18365192,
+      "length": 417397
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchBombFire.xnb",
+      "offset": 18782589,
+      "length": 228937
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchDamage.xnb",
+      "offset": 19011526,
+      "length": 54033
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchDamage2.xnb",
+      "offset": 19065559,
+      "length": 130245
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchDestruct.xnb",
+      "offset": 19195804,
+      "length": 119725
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchRayLoop.xnb",
+      "offset": 19315529,
+      "length": 132265
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchRepel.xnb",
+      "offset": 19447794,
+      "length": 19339
+    },
+    {
+      "path": "Audio/SoundEffects/GlitchedPiston.xnb",
+      "offset": 19467133,
+      "length": 59445
+    },
+    {
+      "path": "Audio/SoundEffects/GluggAttack.xnb",
+      "offset": 19526578,
+      "length": 75175
+    },
+    {
+      "path": "Audio/SoundEffects/GluggBite.xnb",
+      "offset": 19601753,
+      "length": 44853
+    },
+    {
+      "path": "Audio/SoundEffects/Goolumn.xnb",
+      "offset": 19646606,
+      "length": 242885
+    },
+    {
+      "path": "Audio/SoundEffects/GrappleDetach.xnb",
+      "offset": 19889491,
+      "length": 11087
+    },
+    {
+      "path": "Audio/SoundEffects/GrappleFire.xnb",
+      "offset": 19900578,
+      "length": 36151
+    },
+    {
+      "path": "Audio/SoundEffects/GrappleLatch.xnb",
+      "offset": 19936729,
+      "length": 24479
+    },
+    {
+      "path": "Audio/SoundEffects/GrappleRicochet.xnb",
+      "offset": 19961208,
+      "length": 43275
+    },
+    {
+      "path": "Audio/SoundEffects/Gunshot.xnb",
+      "offset": 20004483,
+      "length": 334441
+    },
+    {
+      "path": "Audio/SoundEffects/HealthDrain.xnb",
+      "offset": 20338924,
+      "length": 12393
+    },
+    {
+      "path": "Audio/SoundEffects/HealthDrop0.xnb",
+      "offset": 20351317,
+      "length": 190801
+    },
+    {
+      "path": "Audio/SoundEffects/HealthDrop1.xnb",
+      "offset": 20542118,
+      "length": 190801
+    },
+    {
+      "path": "Audio/SoundEffects/HuggerAttack.xnb",
+      "offset": 20732919,
+      "length": 51211
+    },
+    {
+      "path": "Audio/SoundEffects/HuggerDrain.xnb",
+      "offset": 20784130,
+      "length": 57975
+    },
+    {
+      "path": "Audio/SoundEffects/InertialPulse.xnb",
+      "offset": 20842105,
+      "length": 113685
+    },
+    {
+      "path": "Audio/SoundEffects/Invalid.xnb",
+      "offset": 20955790,
+      "length": 30071
+    },
+    {
+      "path": "Audio/SoundEffects/IonBeam.xnb",
+      "offset": 20985861,
+      "length": 219849
+    },
+    {
+      "path": "Audio/SoundEffects/ItemPickup.xnb",
+      "offset": 21205710,
+      "length": 485621
+    },
+    {
+      "path": "Audio/SoundEffects/LaserWhip.xnb",
+      "offset": 21691331,
+      "length": 216109
+    },
+    {
+      "path": "Audio/SoundEffects/LaserWhipDeep.xnb",
+      "offset": 21907440,
+      "length": 115841
+    },
+    {
+      "path": "Audio/SoundEffects/LaserWhipShort.xnb",
+      "offset": 22023281,
+      "length": 123505
+    },
+    {
+      "path": "Audio/SoundEffects/LightningGun.xnb",
+      "offset": 22146786,
+      "length": 323689
+    },
+    {
+      "path": "Audio/SoundEffects/LowHealthBeep.xnb",
+      "offset": 22470475,
+      "length": 31711
+    },
+    {
+      "path": "Audio/SoundEffects/MemoryTrasher.xnb",
+      "offset": 22502186,
+      "length": 243281
+    },
+    {
+      "path": "Audio/SoundEffects/MetallicPing.xnb",
+      "offset": 22745467,
+      "length": 60713
+    },
+    {
+      "path": "Audio/SoundEffects/MutantDeath.xnb",
+      "offset": 22806180,
+      "length": 194365
+    },
+    {
+      "path": "Audio/SoundEffects/MutantHurt.xnb",
+      "offset": 23000545,
+      "length": 103837
+    },
+    {
+      "path": "Audio/SoundEffects/MutantJump.xnb",
+      "offset": 23104382,
+      "length": 103837
+    },
+    {
+      "path": "Audio/SoundEffects/MutantScreech.xnb",
+      "offset": 23208219,
+      "length": 133013
+    },
+    {
+      "path": "Audio/SoundEffects/MutantTongue.xnb",
+      "offset": 23341232,
+      "length": 77813
+    },
+    {
+      "path": "Audio/SoundEffects/NanogateLeave.xnb",
+      "offset": 23419045,
+      "length": 345033
+    },
+    {
+      "path": "Audio/SoundEffects/NanogateSwirl.xnb",
+      "offset": 23764078,
+      "length": 345045
+    },
+    {
+      "path": "Audio/SoundEffects/NovaBurst.xnb",
+      "offset": 24109123,
+      "length": 188501
+    },
+    {
+      "path": "Audio/SoundEffects/NovaFlash.xnb",
+      "offset": 24297624,
+      "length": 150857
+    },
+    {
+      "path": "Audio/SoundEffects/NovaImpact.xnb",
+      "offset": 24448481,
+      "length": 45877
+    },
+    {
+      "path": "Audio/SoundEffects/OpenDoor.xnb",
+      "offset": 24494358,
+      "length": 18611
+    },
+    {
+      "path": "Audio/SoundEffects/OracaSquish.xnb",
+      "offset": 24512969,
+      "length": 103913
+    },
+    {
+      "path": "Audio/SoundEffects/OscillatorPower.xnb",
+      "offset": 24616882,
+      "length": 89109
+    },
+    {
+      "path": "Audio/SoundEffects/Overclock.xnb",
+      "offset": 24705991,
+      "length": 107625
+    },
+    {
+      "path": "Audio/SoundEffects/OverclockCooloff.xnb",
+      "offset": 24813616,
+      "length": 12953
+    },
+    {
+      "path": "Audio/SoundEffects/PistonDown.xnb",
+      "offset": 24826569,
+      "length": 302633
+    },
+    {
+      "path": "Audio/SoundEffects/PistonUp.xnb",
+      "offset": 25129202,
+      "length": 271277
+    },
+    {
+      "path": "Audio/SoundEffects/PotatoMorph.xnb",
+      "offset": 25400479,
+      "length": 33055
+    },
+    {
+      "path": "Audio/SoundEffects/PowerOn.xnb",
+      "offset": 25433534,
+      "length": 112155
+    },
+    {
+      "path": "Audio/SoundEffects/Powersurge.xnb",
+      "offset": 25545689,
+      "length": 386953
+    },
+    {
+      "path": "Audio/SoundEffects/ProngfishSwoop.xnb",
+      "offset": 25932642,
+      "length": 96165
+    },
+    {
+      "path": "Audio/SoundEffects/RapidDeepBlips.xnb",
+      "offset": 26028807,
+      "length": 263341
+    },
+    {
+      "path": "Audio/SoundEffects/RapidHigherBlips.xnb",
+      "offset": 26292148,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/RedGooRebirth.xnb",
+      "offset": 26692305,
+      "length": 63593
+    },
+    {
+      "path": "Audio/SoundEffects/Reflector.xnb",
+      "offset": 26755898,
+      "length": 64201
+    },
+    {
+      "path": "Audio/SoundEffects/RepairDroneZap.xnb",
+      "offset": 26820099,
+      "length": 26051
+    },
+    {
+      "path": "Audio/SoundEffects/Ricochet.xnb",
+      "offset": 26846150,
+      "length": 56553
+    },
+    {
+      "path": "Audio/SoundEffects/RingAmplifier.xnb",
+      "offset": 26902703,
+      "length": 115729
+    },
+    {
+      "path": "Audio/SoundEffects/RobotHurt.xnb",
+      "offset": 27018432,
+      "length": 78155
+    },
+    {
+      "path": "Audio/SoundEffects/RobotRoar1.xnb",
+      "offset": 27096587,
+      "length": 144781
+    },
+    {
+      "path": "Audio/SoundEffects/RobotRoar2.xnb",
+      "offset": 27241368,
+      "length": 105653
+    },
+    {
+      "path": "Audio/SoundEffects/RollingStone.xnb",
+      "offset": 27347021,
+      "length": 39751
+    },
+    {
+      "path": "Audio/SoundEffects/SaveStationActivate.xnb",
+      "offset": 27386772,
+      "length": 266157
+    },
+    {
+      "path": "Audio/SoundEffects/ScorpionAttack.xnb",
+      "offset": 27652929,
+      "length": 50879
+    },
+    {
+      "path": "Audio/SoundEffects/ScorpionPushback.xnb",
+      "offset": 27703808,
+      "length": 39503
+    },
+    {
+      "path": "Audio/SoundEffects/SecretWorldEntrance.xnb",
+      "offset": 27743311,
+      "length": 47593
+    },
+    {
+      "path": "Audio/SoundEffects/SecurityWormDropBomb.xnb",
+      "offset": 27790904,
+      "length": 131825
+    },
+    {
+      "path": "Audio/SoundEffects/SecurityWormFire.xnb",
+      "offset": 27922729,
+      "length": 67085
+    },
+    {
+      "path": "Audio/SoundEffects/SecurityWormHurt.xnb",
+      "offset": 27989814,
+      "length": 147725
+    },
+    {
+      "path": "Audio/SoundEffects/SecurityWormRoar1.xnb",
+      "offset": 28137539,
+      "length": 281469
+    },
+    {
+      "path": "Audio/SoundEffects/SecurityWormRoar2.xnb",
+      "offset": 28419008,
+      "length": 282721
+    },
+    {
+      "path": "Audio/SoundEffects/SentinelSwim.xnb",
+      "offset": 28701729,
+      "length": 29557
+    },
+    {
+      "path": "Audio/SoundEffects/Shards.xnb",
+      "offset": 28731286,
+      "length": 21741
+    },
+    {
+      "path": "Audio/SoundEffects/SlugLaser.xnb",
+      "offset": 28753027,
+      "length": 800157
+    },
+    {
+      "path": "Audio/SoundEffects/SnailborgHurt.xnb",
+      "offset": 29553184,
+      "length": 67493
+    },
+    {
+      "path": "Audio/SoundEffects/SpaceBatShriek.xnb",
+      "offset": 29620677,
+      "length": 58455
+    },
+    {
+      "path": "Audio/SoundEffects/SpitbugFire.xnb",
+      "offset": 29679132,
+      "length": 41645
+    },
+    {
+      "path": "Audio/SoundEffects/SpitbugHurt.xnb",
+      "offset": 29720777,
+      "length": 98773
+    },
+    {
+      "path": "Audio/SoundEffects/SpitbugSpawn.xnb",
+      "offset": 29819550,
+      "length": 85405
+    },
+    {
+      "path": "Audio/SoundEffects/Splash.xnb",
+      "offset": 29904955,
+      "length": 192125
+    },
+    {
+      "path": "Audio/SoundEffects/SplatA.xnb",
+      "offset": 30097080,
+      "length": 45765
+    },
+    {
+      "path": "Audio/SoundEffects/SplatAB.xnb",
+      "offset": 30142845,
+      "length": 171369
+    },
+    {
+      "path": "Audio/SoundEffects/SplatB.xnb",
+      "offset": 30314214,
+      "length": 171377
+    },
+    {
+      "path": "Audio/SoundEffects/SplatBLong.xnb",
+      "offset": 30485591,
+      "length": 445965
+    },
+    {
+      "path": "Audio/SoundEffects/SplatC.xnb",
+      "offset": 30931556,
+      "length": 202641
+    },
+    {
+      "path": "Audio/SoundEffects/SplidlerDescend.xnb",
+      "offset": 31134197,
+      "length": 165445
+    },
+    {
+      "path": "Audio/SoundEffects/SporeBurst.xnb",
+      "offset": 31299642,
+      "length": 56891
+    },
+    {
+      "path": "Audio/SoundEffects/SporeSpawn.xnb",
+      "offset": 31356533,
+      "length": 44893
+    },
+    {
+      "path": "Audio/SoundEffects/SquishA.xnb",
+      "offset": 31401426,
+      "length": 79973
+    },
+    {
+      "path": "Audio/SoundEffects/StaticExplosion1.xnb",
+      "offset": 31481399,
+      "length": 164037
+    },
+    {
+      "path": "Audio/SoundEffects/Steam.xnb",
+      "offset": 31645436,
+      "length": 331797
+    },
+    {
+      "path": "Audio/SoundEffects/StoneCrack.xnb",
+      "offset": 31977233,
+      "length": 64357
+    },
+    {
+      "path": "Audio/SoundEffects/StoneShatter.xnb",
+      "offset": 32041590,
+      "length": 190293
+    },
+    {
+      "path": "Audio/SoundEffects/SuppressorClose.xnb",
+      "offset": 32231883,
+      "length": 92693
+    },
+    {
+      "path": "Audio/SoundEffects/TankCrack1.xnb",
+      "offset": 32324576,
+      "length": 62131
+    },
+    {
+      "path": "Audio/SoundEffects/TeletypeBlip1.xnb",
+      "offset": 32386707,
+      "length": 13925
+    },
+    {
+      "path": "Audio/SoundEffects/TendrilsEmerge.xnb",
+      "offset": 32400632,
+      "length": 64765
+    },
+    {
+      "path": "Audio/SoundEffects/TendrilsFire.xnb",
+      "offset": 32465397,
+      "length": 55733
+    },
+    {
+      "path": "Audio/SoundEffects/TendrilsRetract.xnb",
+      "offset": 32521130,
+      "length": 61645
+    },
+    {
+      "path": "Audio/SoundEffects/TentacleGrassDrain.xnb",
+      "offset": 32582775,
+      "length": 40335
+    },
+    {
+      "path": "Audio/SoundEffects/TetheredCharge.xnb",
+      "offset": 32623110,
+      "length": 66493
+    },
+    {
+      "path": "Audio/SoundEffects/Thud.xnb",
+      "offset": 32689603,
+      "length": 23223
+    },
+    {
+      "path": "Audio/SoundEffects/TraceDeath.xnb",
+      "offset": 32712826,
+      "length": 396317
+    },
+    {
+      "path": "Audio/SoundEffects/TraceFootStep.xnb",
+      "offset": 33109143,
+      "length": 12393
+    },
+    {
+      "path": "Audio/SoundEffects/TraceJump.xnb",
+      "offset": 33121536,
+      "length": 27321
+    },
+    {
+      "path": "Audio/SoundEffects/TraceLand.xnb",
+      "offset": 33148857,
+      "length": 32257
+    },
+    {
+      "path": "Audio/SoundEffects/TraceSlide.xnb",
+      "offset": 33181114,
+      "length": 98557
+    },
+    {
+      "path": "Audio/SoundEffects/TraceWound.xnb",
+      "offset": 33279671,
+      "length": 41617
+    },
+    {
+      "path": "Audio/SoundEffects/TrainExplosion.xnb",
+      "offset": 33321288,
+      "length": 282865
+    },
+    {
+      "path": "Audio/SoundEffects/TrapClawHurt.xnb",
+      "offset": 33604153,
+      "length": 139373
+    },
+    {
+      "path": "Audio/SoundEffects/TrapClawShriek.xnb",
+      "offset": 33743526,
+      "length": 412853
+    },
+    {
+      "path": "Audio/SoundEffects/TrapClawSingleSnap.xnb",
+      "offset": 34156379,
+      "length": 24937
+    },
+    {
+      "path": "Audio/SoundEffects/TrapClawSnap.xnb",
+      "offset": 34181316,
+      "length": 134113
+    },
+    {
+      "path": "Audio/SoundEffects/TriCone.xnb",
+      "offset": 34315429,
+      "length": 109965
+    },
+    {
+      "path": "Audio/SoundEffects/WallCrack1.xnb",
+      "offset": 34425394,
+      "length": 35583
+    },
+    {
+      "path": "Audio/SoundEffects/WallTeleportBegin.xnb",
+      "offset": 34460977,
+      "length": 49565
+    },
+    {
+      "path": "Audio/SoundEffects/WallTeleportCharge.xnb",
+      "offset": 34510542,
+      "length": 400157
+    },
+    {
+      "path": "Audio/SoundEffects/WallTeleportFailure.xnb",
+      "offset": 34910699,
+      "length": 99817
+    },
+    {
+      "path": "Audio/SoundEffects/WallTeleportSuccess.xnb",
+      "offset": 35010516,
+      "length": 68805
+    },
+    {
+      "path": "Audio/SoundEffects/WallTrace.xnb",
+      "offset": 35079321,
+      "length": 157157
+    },
+    {
+      "path": "Audio/SoundEffects/WeaponSelect.xnb",
+      "offset": 35236478,
+      "length": 58133
+    },
+    {
+      "path": "Audio/SoundEffects/WebSlicer.xnb",
+      "offset": 35294611,
+      "length": 82973
+    },
+    {
+      "path": "Audio/SoundEffects/WhiteOut.xnb",
+      "offset": 35377584,
+      "length": 469853
+    },
+    {
+      "path": "Audio/SoundEffects/WindowSlide.xnb",
+      "offset": 35847437,
+      "length": 275497
+    },
+    {
+      "path": "Audio/SoundEffects/YorchugHurt.xnb",
+      "offset": 36122934,
+      "length": 142605
+    },
+    {
+      "path": "Audio/SoundEffects/ZMachineCharge.xnb",
+      "offset": 36265539,
+      "length": 516981
+    },
+    {
+      "path": "Audio/SoundEffects/ZPinch.xnb",
+      "offset": 36782520,
+      "length": 127635
+    },
+    {
+      "path": "Audio/SoundEffects/ZeborgFire.xnb",
+      "offset": 36910155,
+      "length": 37255
+    },
+    {
+      "path": "Audio/SoundEffects/ZeborgWake.xnb",
+      "offset": 36947410,
+      "length": 66879
+    },
+    {
+      "path": "Fonts/CJKFont12pt.xnb",
+      "offset": 37014289,
+      "length": 43684
+    },
+    {
+      "path": "Fonts/CJKFont16x16.xnb",
+      "offset": 37057973,
+      "length": 135510
+    },
+    {
+      "path": "Fonts/CJKFont8pt.xnb",
+      "offset": 37193483,
+      "length": 32938
+    },
+    {
+      "path": "Fonts/CJKFontMono12pt.xnb",
+      "offset": 37226421,
+      "length": 48214
+    },
+    {
+      "path": "Fonts/Hud.xnb",
+      "offset": 37274635,
+      "length": 6404
+    },
+    {
+      "path": "Fonts/TestFont1.xnb",
+      "offset": 37281039,
+      "length": 5800
+    },
+    {
+      "path": "Shaders/THBackgroundShader.xnb",
+      "offset": 37286839,
+      "length": 3560
+    },
+    {
+      "path": "Shaders/THBlurShader.xnb",
+      "offset": 37290399,
+      "length": 1330
+    },
+    {
+      "path": "Shaders/THCellularAutomataShader.xnb",
+      "offset": 37291729,
+      "length": 1064
+    },
+    {
+      "path": "Shaders/THColorCorrectionShader.xnb",
+      "offset": 37292793,
+      "length": 896
+    },
+    {
+      "path": "Shaders/THCreatureShader.xnb",
+      "offset": 37293689,
+      "length": 4142
+    },
+    {
+      "path": "Shaders/THDamageableTileShader.xnb",
+      "offset": 37297831,
+      "length": 1080
+    },
+    {
+      "path": "Shaders/THDistortionShader.xnb",
+      "offset": 37298911,
+      "length": 898
+    },
+    {
+      "path": "Shaders/THGlitchableTileShader.xnb",
+      "offset": 37299809,
+      "length": 3236
+    },
+    {
+      "path": "Shaders/THHallucinationShader.xnb",
+      "offset": 37303045,
+      "length": 1332
+    },
+    {
+      "path": "Shaders/THItemShader.xnb",
+      "offset": 37304377,
+      "length": 1102
+    },
+    {
+      "path": "Shaders/THLaserShader.xnb",
+      "offset": 37305479,
+      "length": 954
+    },
+    {
+      "path": "Shaders/THRandomizedGridShader.xnb",
+      "offset": 37306433,
+      "length": 2374
+    },
+    {
+      "path": "Shaders/THScanlineShader.xnb",
+      "offset": 37308807,
+      "length": 1576
+    },
+    {
+      "path": "Shaders/THSpriteShader.xnb",
+      "offset": 37310383,
+      "length": 1230
+    },
+    {
+      "path": "Shaders/THTileShader.xnb",
+      "offset": 37311613,
+      "length": 890
+    },
+    {
+      "path": "Shaders/THTraceShader.xnb",
+      "offset": 37312503,
+      "length": 2560
+    },
+    {
+      "path": "Shaders/THUIShader.xnb",
+      "offset": 37315063,
+      "length": 1158
+    }
+  ]
+}
